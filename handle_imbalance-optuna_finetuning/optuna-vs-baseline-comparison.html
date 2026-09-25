@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Optuna Hyperparameter Tuning — Results vs Baseline</title>
+<style>
+  :root {
+    --fg: #1f2328;
+    --muted: #59636e;
+    --border: #d1d9e0;
+    --bg: #ffffff;
+    --accent: #0969da;
+    --code-bg: #f6f8fa;
+    --thead-bg: #f6f8fa;
+    --zebra: #fbfcfd;
+    --warn-bg: #fff8c5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2.5rem 1.25rem 5rem;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+          Helvetica, Arial, sans-serif;
+  }
+  main { max-width: 61rem; margin: 0 auto; }
+  h1, h2, h3 { line-height: 1.3; margin: 2rem 0 1rem; font-weight: 600; }
+  h1 { font-size: 2rem; padding-bottom: .4rem; border-bottom: 2px solid var(--border); margin-top: 0; }
+  h2 { font-size: 1.45rem; padding-bottom: .3rem; border-bottom: 1px solid var(--border); }
+  h3 { font-size: 1.15rem; }
+  p { margin: 0 0 1rem; }
+  hr { height: 1px; border: 0; background: var(--border); margin: 2.25rem 0; }
+  a { color: var(--accent); }
+  ul, ol { margin: 0 0 1rem; padding-left: 1.6rem; }
+  li { margin: .35rem 0; }
+  li > strong:first-child { color: #111; }
+  code {
+    background: var(--code-bg);
+    padding: .15em .4em;
+    border-radius: 6px;
+    font: .875em/1.4 ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+          "Liberation Mono", monospace;
+    white-space: nowrap;
+  }
+  blockquote {
+    margin: 0 0 1rem;
+    padding: .25rem 1rem;
+    color: var(--muted);
+    border-left: .25rem solid var(--border);
+  }
+  .table-wrap { overflow-x: auto; margin: 0 0 1.4rem; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: .93rem;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: .5rem .75rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  thead th { background: var(--thead-bg); font-weight: 600; white-space: nowrap; }
+  tbody tr:nth-child(even) { background: var(--zebra); }
+  td.warn { background: var(--warn-bg); font-weight: 600; }
+  strong { font-weight: 600; }
+  @media print {
+    body { padding: 0; font-size: 11pt; }
+    h2 { page-break-after: avoid; }
+    .table-wrap, table { page-break-inside: avoid; }
+    hr { margin: 1.2rem 0; }
+  }
+</style>
+</head>
+<body>
+<main>
+<h1 id="optuna-hyperparameter-tuning-results-vs-baseline">Optuna Hyperparameter Tuning — Results vs Baseline</h1>
+
+<p>Comparison of the four Optuna result notebooks against the corresponding baseline runs.</p>
+
+<p><strong>Source notebooks (Optuna):</strong></p>
+
+<ul>
+  <li><code>thesis-3-label-optuna_stage1.ipynb</code></li>
+  <li><code>thesis-3-label-optuna-stage2.ipynb</code></li>
+  <li><code>stage1-weighted-stage2-oversampling-threshold-optu_stage1.ipynb</code></li>
+  <li><code>stage1-weighted-stage2-oversampling-threshold-optu_stage2.ipynb</code></li>
+</ul>
+
+<p><strong>Baselines:</strong> <code>thesis-3-label.ipynb</code>, <code>stage1-weighted-stage2-oversampling+threshold.ipynb</code></p>
+
+<p>Splits match the baselines exactly (3-label: test 5253 / Stage 2 test 457; 5-label: test 5276 / Stage 2 test 480; same per-label support), so all comparisons are apples-to-apples.</p>
+
+<hr>
+
+<h2 id="headline-answer-is-it-good-enough">Headline answer: is it good enough?</h2>
+
+<p><strong>Optuna produced real but modest gains — and its biggest contribution was making the models better calibrated rather than more accurate.</strong> Two findings dominate:</p>
+
+<ol>
+  <li><strong>Most of the improvement shows up at the default 0.5 threshold.</strong> After per-label threshold tuning, baseline and Optuna models converge to nearly the same scores. In other words, Optuna got you <em>threshold-tuned-level performance without needing the threshold hack</em>.</li>
+  <li><strong>One result got actively worse:</strong> on the 5-label Stage 2, per-label threshold tuning dropped macro F1 from 0.56 to <strong>0.46</strong> because the <code>sexually_explicit</code> threshold (0.9730) overfit a tiny validation set. That run's best configuration is now the <strong>default 0.5 threshold</strong>, not the tuned one.</li>
+</ol>
+
+<p>Net: gains of <strong>+0.01 to +0.06 F1</strong>. Worth keeping, but the performance ceiling is clearly <strong>data-limited, not hyperparameter-limited</strong>.</p>
+
+<hr>
+
+<h2 id="best-hyperparameters-found">Best hyperparameters found</h2>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Run</th><th>learning_rate</th><th>epochs</th><th>batch</th><th>weight_decay</th><th>Best val score</th></tr></thead>
+<tbody>
+<tr><td>3-label Stage 1</td><td>2.513e-05</td><td>6</td><td>16</td><td>0.0161</td><td>F1 <strong>0.4873</strong></td></tr>
+<tr><td>3-label Stage 2</td><td>4.832e-05</td><td>6</td><td>8</td><td>0.0909</td><td>macro F1 <strong>0.6516</strong></td></tr>
+<tr><td>Weighted Stage 1</td><td>3.334e-05</td><td>3</td><td>8</td><td>0.0049</td><td>F1 <strong>0.5269</strong></td></tr>
+<tr><td>Oversampled Stage 2</td><td><em>(trial 0; params not retained in saved log)</em></td><td>—</td><td>—</td><td>—</td><td>macro F1 <strong>0.5165</strong></td></tr>
+</tbody></table></div>
+
+<p>All searches used 10 trials. Every best learning rate landed <strong>2.5–5× higher than the baseline's fixed 1e-5</strong>, which is the single most consistent signal from the search — the baselines were training too conservatively.</p>
+
+<hr>
+
+<h2 id="option-a-3-label">Option A — 3-label</h2>
+
+<h3 id="stage-1-binary-toxicity-test-4797-456">Stage 1 (binary toxicity, test: 4797 / 456)</h3>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Config</th><th>Toxic P</th><th>Toxic R</th><th>Toxic F1</th><th>Macro F1</th><th>Acc</th></tr></thead>
+<tbody>
+<tr><td>Baseline @0.5</td><td>0.52</td><td>0.40</td><td>0.45</td><td>0.70</td><td>0.92</td></tr>
+<tr><td>Baseline @tuned 0.3709</td><td>0.49</td><td>0.48</td><td><strong>0.48</strong></td><td><strong>0.72</strong></td><td>0.91</td></tr>
+<tr><td>Optuna @0.5</td><td>0.49</td><td>0.43</td><td>0.46</td><td>0.70</td><td>0.91</td></tr>
+<tr><td>Optuna @tuned 0.2556</td><td>0.44</td><td>0.50</td><td>0.47</td><td>0.71</td><td>0.90</td></tr>
+</tbody></table></div>
+
+<p><strong>Verdict: no meaningful gain.</strong> Optuna is +0.01 at the default threshold but −0.01 after tuning (0.48 → 0.47), and macro F1 slips 0.72 → 0.71. Validation F1 was 0.4873, essentially the same neighbourhood as the baseline. This stage did not benefit from the search.</p>
+
+<h3 id="stage-2-3-label-test-insults-202-identityattack-200-profanity-71">Stage 2 (3-label, test: insults 202 / identity_attack 200 / profanity 71)</h3>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Config</th><th>F1 micro</th><th>F1 macro</th><th>P micro</th><th>R micro</th></tr></thead>
+<tbody>
+<tr><td>Baseline @0.5</td><td>0.58</td><td>0.54</td><td>0.62</td><td>0.55</td></tr>
+<tr><td>Baseline @tuned</td><td>0.63</td><td>0.60</td><td>0.50</td><td>0.86</td></tr>
+<tr><td><strong>Optuna @0.5</strong></td><td>0.61</td><td><strong>0.60</strong></td><td>0.59</td><td>0.64</td></tr>
+<tr><td>Optuna @tuned</td><td>0.63</td><td>0.60</td><td>0.51</td><td>0.84</td></tr>
+</tbody></table></div>
+
+<p>Per-label F1 (positive class):</p>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Label</th><th>Base @0.5</th><th>Base @tuned</th><th>Optuna @0.5</th><th>Optuna @tuned</th></tr></thead>
+<tbody>
+<tr><td>insults</td><td>0.55</td><td>0.63</td><td>0.63</td><td><strong>0.64</strong></td></tr>
+<tr><td>identity_attack</td><td>0.61</td><td><strong>0.68</strong></td><td>0.61</td><td>0.66</td></tr>
+<tr><td>profanity_obscenity</td><td>0.44</td><td>0.50</td><td><strong>0.55</strong></td><td>0.52</td></tr>
+</tbody></table></div>
+
+<p>Tuned thresholds: insults 0.1612, identity_attack 0.0354, profanity 0.1308.</p>
+
+<p><strong>Verdict: the clearest win, but only at the default threshold.</strong> Macro F1 at 0.5 jumped <strong>0.54 → 0.60 (+0.06)</strong> and <code>profanity_obscenity</code> improved 0.44 → 0.55. After threshold tuning both land at macro 0.60 / micro 0.63 — identical. So Optuna's real value here is that the model no longer <em>needs</em> aggressive threshold correction to perform well, which also means far better precision (0.59 vs 0.50) at equal macro F1.</p>
+
+<hr>
+
+<h2 id="option-b-stage-1-weighted-stage-2-oversampling">Option B — Stage 1 weighted + Stage 2 oversampling</h2>
+
+<h3 id="stage-1-binary-toxicity-weighted-ce-test-4796-480">Stage 1 (binary toxicity, weighted CE, test: 4796 / 480)</h3>
+
+<p>Class weights: <code>[0.5500, 5.4988]</code>.</p>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Config</th><th>Toxic P</th><th>Toxic R</th><th>Toxic F1</th><th>Macro F1</th><th>Acc</th></tr></thead>
+<tbody>
+<tr><td>Baseline @0.5</td><td>0.37</td><td>0.65</td><td>0.48</td><td>0.70</td><td>0.87</td></tr>
+<tr><td>Baseline @tuned 0.9314</td><td>0.51</td><td>0.48</td><td>0.49</td><td>0.72</td><td>0.91</td></tr>
+<tr><td><strong>Optuna @0.5</strong></td><td>0.46</td><td>0.52</td><td><strong>0.49</strong></td><td><strong>0.72</strong></td><td>0.90</td></tr>
+<tr><td>Optuna @tuned 0.5101</td><td>0.46</td><td>0.52</td><td>0.49</td><td>0.72</td><td>0.90</td></tr>
+</tbody></table></div>
+
+<p><strong>Verdict: same F1, much better calibration.</strong> The baseline needed an extreme threshold of <strong>0.9314</strong> to reach macro F1 0.72; Optuna reaches the identical 0.72 at essentially the natural cutoff (tuned threshold = 0.5101, i.e. no correction needed — the @0.5 and @tuned reports are byte-identical). A model that performs best near 0.5 is far more trustworthy than one that only works at 0.93, which was a red flag for overfit calibration. Validation F1 also rose to 0.5269 (baseline val eval_f1 was 0.4931).</p>
+
+<p>Also notable: Optuna chose only <strong>3 epochs</strong>, consistent with the baseline's observation that validation loss bottomed out around epoch 1–2.</p>
+
+<h3 id="stage-2-5-label-oversampled-test-480">Stage 2 (5-label, oversampled, test: 480)</h3>
+
+<p>Oversampling identical to baseline: insults 729→1028, identity_attack 698→1161, threat 78→740, profanity 258→977, sexually_explicit 47→744.</p>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Config</th><th>F1 micro</th><th>F1 macro</th><th>P micro</th><th>R micro</th></tr></thead>
+<tbody>
+<tr><td>Baseline @0.5</td><td>0.59</td><td>0.53</td><td>0.59</td><td>0.59</td></tr>
+<tr><td>Baseline @tuned</td><td>0.62</td><td>0.54</td><td>0.50</td><td>0.82</td></tr>
+<tr><td><strong>Optuna @0.5</strong></td><td>0.62</td><td><strong>0.56</strong></td><td>0.59</td><td>0.65</td></tr>
+<tr><td>Optuna @tuned</td><td>0.63</td><td class="warn"><strong>0.46</strong> ⚠️</td><td>0.52</td><td>0.80</td></tr>
+</tbody></table></div>
+
+<p>Per-label F1 (positive class):</p>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Label (support)</th><th>Base @0.5</th><th>Base @tuned</th><th>Optuna @0.5</th><th>Optuna @tuned</th></tr></thead>
+<tbody>
+<tr><td>insults (218)</td><td>0.60</td><td>0.67</td><td>0.62</td><td><strong>0.68</strong></td></tr>
+<tr><td>identity_attack (199)</td><td>0.62</td><td>0.64</td><td><strong>0.65</strong></td><td>0.64</td></tr>
+<tr><td>threat_incitement (19)</td><td>0.25</td><td>0.27</td><td>0.27</td><td><strong>0.29</strong></td></tr>
+<tr><td>profanity_obscenity (65)</td><td><strong>0.60</strong></td><td>0.50</td><td>0.58</td><td>0.53</td></tr>
+<tr><td>sexually_explicit (11)</td><td>0.60</td><td>0.62</td><td><strong>0.67</strong></td><td class="warn">0.17 ⚠️</td></tr>
+</tbody></table></div>
+
+<p>Tuned thresholds: insults 0.1717, identity_attack 0.2668, threat 0.6108, profanity 0.1780, <strong>sexually_explicit 0.9730</strong>.</p>
+
+<p><strong>Verdict: best-ever result at 0.5, but threshold tuning backfired.</strong></p>
+
+<ul>
+  <li>At the default threshold, macro F1 improved <strong>0.53 → 0.56</strong> and <code>sexually_explicit</code> hit <strong>0.67 — the highest score that label has achieved in any experiment.</strong></li>
+  <li>At tuned thresholds, macro F1 <strong>collapsed to 0.46</strong>. The cause is isolated and clear: the <code>sexually_explicit</code> threshold was tuned to <strong>0.9730</strong>, which scored P 1.00 / R 0.33 / F1 0.50 on validation but only <strong>P 1.00 / R 0.09 / F1 0.17</strong> on test.</li>
+  <li>Root cause: with just 11 positives in test and roughly 5–6 in validation, the precision-recall curve for that label is built from a handful of points. Picking an extreme cutoff on so few samples is <strong>threshold overfitting</strong>, not genuine calibration.</li>
+</ul>
+
+<hr>
+
+<h2 id="what-to-take-forward">What to take forward</h2>
+
+<div class="table-wrap"><table>
+<thead><tr><th>Stage</th><th>Use this configuration</th><th>Score</th></tr></thead>
+<tbody>
+<tr><td>Stage 1 (3-label)</td><td>Baseline @tuned 0.3709 <em>or</em> Optuna @0.5</td><td>macro F1 0.72 / 0.70</td></tr>
+<tr><td>Stage 2 (3-label)</td><td><strong>Optuna @0.5</strong> (preferred) or either @tuned</td><td>macro F1 0.60, micro 0.61, precision 0.59</td></tr>
+<tr><td>Stage 1 (weighted)</td><td><strong>Optuna @0.5</strong></td><td>macro F1 0.72, toxic F1 0.49, no threshold hack</td></tr>
+<tr><td>Stage 2 (5-label)</td><td><strong>Optuna @0.5 — do NOT use tuned thresholds</strong></td><td>macro F1 0.56, <code>sexually_explicit</code> 0.67</td></tr>
+</tbody></table></div>
+
+<h3 id="concrete-fixes-worth-applying">Concrete fixes worth applying</h3>
+
+<ol>
+  <li><strong>Stop tuning thresholds for ultra-rare labels.</strong> Gate it on validation positive count — e.g. only tune a label's threshold if it has ≥ 30 validation positives; otherwise keep 0.5. This single guard would have prevented the macro F1 0.56 → 0.46 regression.</li>
+  <li><strong>Prefer the default-threshold Optuna models.</strong> They deliver equal-or-better macro F1 with substantially higher precision (0.59 vs ~0.50), which is a better operating point for moderation than the recall-maximising tuned variants.</li>
+  <li><strong>Raise the learning rate in any future baseline.</strong> Every search moved away from 1e-5 toward 2.5e-5–4.8e-5; the original fixed 1e-5 was underfitting.</li>
+  <li>If you keep threshold tuning, <strong>select thresholds by cross-validated F1</strong> rather than a single validation split, so rare-label cutoffs are less noisy.</li>
+</ol>
+
+<h3 id="is-it-good-enough">Is it good enough?</h3>
+
+<p>For the thesis, yes — the search is a legitimate, documented contribution and it improved Stage 2 macro F1 meaningfully at the default threshold (3-label: +0.06; 5-label: +0.03), plus it removed the baseline's suspicious 0.93 threshold dependence.</p>
+
+<p>As an absolute result, no — toxic-class F1 is still ~0.49 and Stage 2 macro F1 ~0.56–0.60. Ten trials over four hyperparameters moved things by hundredths, which is the signature of a <strong>data-bound</strong> rather than <strong>tuning-bound</strong> problem. The rare labels (<code>threat</code> F1 0.27–0.29, <code>sexually_explicit</code> unstable between 0.17 and 0.67 depending purely on threshold) remain limited by having 19 and 11 test positives. More annotated data for those categories would move the numbers far more than any further hyperparameter search.</p>
+</main>
+</body>
+</html>
