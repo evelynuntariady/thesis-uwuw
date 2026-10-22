@@ -11,6 +11,7 @@ import ast
 
 import numpy as np
 import pandas as pd
+from transformers import AutoTokenizer
 
 LABEL_COLS = [
     "is_noise_or_spam_text",
@@ -99,6 +100,60 @@ def prepare_dataset(df, ratio=3, random_state=RANDOM_STATE, preprocess=False):
         df[TARGET_COL] = df[SOURCE_COL].fillna("").astype(str).apply(preprocess_text)
 
     return balance_undersample(df, ratio=ratio, random_state=random_state)
+
+
+# function untuk tokenisasi teks + metadata (untuk model dengan metadata)
+def tokenize(batch, tokenizer, max_length=128):
+    combined_texts = []
+
+    for i in range(len(batch["processed_text"])):
+
+        metadata_text = (
+            f"Annotator memiliki etnis {batch['ethnicity'][i]}, "
+            f"agama {batch['religion'][i]}, "
+            f"status disabilitas {batch['disability'][i]}, "
+            f"status LGBT {batch['lgbt'][i]}, "
+            f"gender {batch['gender'][i]}, "
+            f"usia {batch['age'][i]}, "
+            f"berdomisili di {batch['domisili'][i]}, "
+            f"pendidikan terakhir {batch['pendidikan terakhir'][i]}, "
+            f"status pekerjaan {batch['status pekerjaan'][i]}, "
+            f"dan kecenderungan pilihan presiden "
+            f"{batch['president vote leaning'][i]}."
+        )
+
+        combined_text = (
+            f"{metadata_text} "
+            f"Komentar yang dianotasi: {batch['processed_text'][i]}"
+        )
+
+        combined_texts.append(combined_text)
+
+    tokenized = tokenizer(
+        combined_texts,
+        padding="max_length",
+        truncation=True,
+        max_length=max_length
+    )
+
+    tokenized["combined_text"] = combined_texts
+
+    # Fix label
+    labels = []
+
+    for label in batch["toxicity"]:
+
+        if isinstance(label, str):
+            label = ast.literal_eval(label)
+
+        if isinstance(label, list):
+            label = label[0]
+
+        labels.append(int(label))
+
+    tokenized["labels"] = labels
+
+    return tokenized
 
 
 def main():
