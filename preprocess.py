@@ -16,10 +16,6 @@ SOURCE_COL = "cleaned_text"
 TARGET_COL = "processed_text"
 EMOJI_LANG = "id"
 
-# Baris dengan label noise yang rusak di CSV: "(['0', '1'], '0')" (posisi, bukan index label)
-BAD_ROW_POS = 5389
-BAD_ROW_FIX = "[0, 1, 0]"
-
 # Emoticon teks -> kata. Hanya dicocokkan kalau berdiri sendiri (diapit spasi),
 # supaya tidak salah tangkap di tengah kata.
 emoticon_dict = {
@@ -94,8 +90,6 @@ def main():
     args = parser.parse_args()
 
     df = pd.read_csv(args.input)
-    # Disimpan sebagai string supaya tetap bisa di-parse dengan ast.literal_eval seperti baris lain
-    df.iat[BAD_ROW_POS, df.columns.get_loc("is_noise_or_spam_text")] = BAD_ROW_FIX
     df[TARGET_COL] = df[SOURCE_COL].fillna("").astype(str).apply(preprocess_text)
     df.to_csv(args.output, index=False)
 
