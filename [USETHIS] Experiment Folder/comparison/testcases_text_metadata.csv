@@ -1,0 +1,41 @@
+case_id,text,annotator_id,toxicity,ethnicity,religion,disability,lgbt,gender,age,domisili,pendidikan terakhir,status pekerjaan,president vote leaning
+TC01,"Azan subuh pakai toa keras banget, ganggu orang tidur. Ibadah kok maksa tetangga ikut dengar.",20,1,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2
+TC01,"Azan subuh pakai toa keras banget, ganggu orang tidur. Ibadah kok maksa tetangga ikut dengar.",19,0,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2
+TC02,"Natal itu perayaan kafir, haram hukumnya ucapin selamat, nanti ikut masuk neraka bareng mereka.",1,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2
+TC02,"Natal itu perayaan kafir, haram hukumnya ucapin selamat, nanti ikut masuk neraka bareng mereka.",23,0,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1
+TC03,"Pastor-pastor itu nggak boleh nikah, pantes aja banyak skandal di gereja.",13,1,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2
+TC03,"Pastor-pastor itu nggak boleh nikah, pantes aja banyak skandal di gereja.",31,0,Tobelo,Islam,no,no,M,36,Ternate,Sarjana (S1),Bekerja,1
+TC04,Kok masih ada ya orang nyembah patung sama sapi di zaman modern begini 🤣,18,1,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2
+TC04,Kok masih ada ya orang nyembah patung sama sapi di zaman modern begini 🤣,30,0,Minang,Islam,no,no,F,31,Padang,Magister (S2),Bekerja,1
+TC05,"Biksu di Myanmar itu munafik, ngajarin welas asih tapi diam saja lihat Rohingya dibantai.",10,1,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3
+TC05,"Biksu di Myanmar itu munafik, ngajarin welas asih tapi diam saja lihat Rohingya dibantai.",25,0,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3
+TC06,"Syiah itu bukan Islam, Rafidhah pencaci sahabat Nabi, umat wajib waspada.",5,1,Jawa,Syiah,no,no,M ,46,Bandung,Diploma,Bekerja,Golput
+TC06,"Syiah itu bukan Islam, Rafidhah pencaci sahabat Nabi, umat wajib waspada.",8,0,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1
+TC07,"Ahmadiyah silakan beribadah, tapi jangan pakai nama Islam. Bikin agama sendiri saja biar umat tidak bingung.",6,1,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3
+TC07,"Ahmadiyah silakan beribadah, tapi jangan pakai nama Islam. Bikin agama sendiri saja biar umat tidak bingung.",27,0,Aceh,Islam,no,no,M,59,Banda Aceh ,Sarjana (S1),Bekerja,1
+TC08,"Penghayat kepercayaan itu isinya cuma klenik sama sesajen, kolom agama di KTP nggak usah diisi aneh-aneh.",3,1,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3
+TC08,"Penghayat kepercayaan itu isinya cuma klenik sama sesajen, kolom agama di KTP nggak usah diisi aneh-aneh.",12,0,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1
+TC09,"Bos saya Cina tapi baik banget loh, jarang-jarang ada yang kayak gini.",32,1,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3
+TC09,"Bos saya Cina tapi baik banget loh, jarang-jarang ada yang kayak gini.",21,0,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1
+TC10,"Mantap, pemerintah akhirnya usir investor Cina. Tanah air harus untuk pribumi!",15,1,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3
+TC10,"Mantap, pemerintah akhirnya usir investor Cina. Tanah air harus untuk pribumi!",29,0,Sasak,Islam,no,no,M,36,Mataram ,Sarjana (S1),Bekerja,3
+TC11,"Orang Madura mah jam 2 pagi juga tetap keliling nyari besi tua, celurit nggak pernah lepas 🤣",2,1,Madura,Islam,no,no,F,22,Madura,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3
+TC11,"Orang Madura mah jam 2 pagi juga tetap keliling nyari besi tua, celurit nggak pernah lepas 🤣",26,0,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2
+TC12,"Pantes ngomongnya kenceng kayak ngajak berantem, ternyata orang Batak.",19,1,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2
+TC12,"Pantes ngomongnya kenceng kayak ngajak berantem, ternyata orang Batak.",9,0,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2
+TC13,"Paslon ini cacat etik, cacat moral, cacat hukum. Mau dibawa ke mana negara kalau pemimpinnya cacat semua?",7,1,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1
+TC13,"Paslon ini cacat etik, cacat moral, cacat hukum. Mau dibawa ke mana negara kalau pemimpinnya cacat semua?",24,0,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1
+TC14,"Ditanya soal utang negara malah planga-plongo, budeg kali ya pak 😅",15,1,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3
+TC14,"Ditanya soal utang negara malah planga-plongo, budeg kali ya pak 😅",20,0,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2
+TC15,"Silakan saja hidup sesuai pilihanmu, asal jangan dekat-dekat anak kami. Kami cuma mau lingkungan yang normal.",11,1,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2
+TC15,"Silakan saja hidup sesuai pilihanmu, asal jangan dekat-dekat anak kami. Kami cuma mau lingkungan yang normal.",8,0,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1
+TC16,"Malam minggu kumpul sama geng bencong kesayangan, ketawa sampai subuh 💅😂 love you para banci cantikku",27,1,Aceh,Islam,no,no,M,59,Banda Aceh ,Sarjana (S1),Bekerja,1
+TC16,"Malam minggu kumpul sama geng bencong kesayangan, ketawa sampai subuh 💅😂 love you para banci cantikku",11,0,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2
+TC17,"Perempuan nggak usah sekolah tinggi-tinggi lah, ujung-ujungnya juga di dapur ngurus suami.",25,1,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3
+TC17,"Perempuan nggak usah sekolah tinggi-tinggi lah, ujung-ujungnya juga di dapur ngurus suami.",31,0,Tobelo,Islam,no,no,M,36,Ternate,Sarjana (S1),Bekerja,1
+TC18,"Boomer mending diem aja deh, nggak ngerti teknologi tapi komentarnya paling kenceng.",27,1,Aceh,Islam,no,no,M,59,Banda Aceh ,Sarjana (S1),Bekerja,1
+TC18,"Boomer mending diem aja deh, nggak ngerti teknologi tapi komentarnya paling kenceng.",16,0,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-
+TC19,"Kadrun lagi sibuk bikin hoaks lagi nih, biasa lah habis kalah debat 🤣",21,1,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1
+TC19,"Kadrun lagi sibuk bikin hoaks lagi nih, biasa lah habis kalah debat 🤣",26,0,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2
+TC20,"Pendukung 02 isinya bocil joget gemoy semua, debat substansi mana bisa 😂",9,1,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2
+TC20,"Pendukung 02 isinya bocil joget gemoy semua, debat substansi mana bisa 😂",22,0,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3
