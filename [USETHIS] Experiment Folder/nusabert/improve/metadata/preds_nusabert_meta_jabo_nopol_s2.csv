@@ -1,0 +1,1137 @@
+text_id,annotator_id,ethnicity,religion,disability,lgbt,gender,age,domisili,pendidikan terakhir,status pekerjaan,president vote leaning,domisili_seg,true_insults,true_identity_attack,true_threat_incitement_to_violence,true_profanity_obscenity,true_sexually_explicit,seed,prob_insults,prob_identity_attack,prob_threat_incitement_to_violence,prob_profanity_obscenity,prob_sexually_explicit
+1-100,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.76993906,0.049559683,0.10148687,0.1635499,0.16047078
+1-100,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.82910866,0.19789954,0.1277258,0.10106734,0.04713888
+1-1021,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.7352149,0.5572758,0.056580782,0.10181532,0.001776297
+1-1021,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.7352149,0.5572758,0.056580782,0.10181532,0.001776297
+1-1031,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.7465597,0.8129835,0.16556741,0.2251052,0.001083582
+1-1031,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.7465597,0.8129835,0.16556741,0.2251052,0.001083582
+1-1036,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.7280593,0.67995465,0.18741664,0.047614645,0.0009493514
+1-1036,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7280593,0.67995465,0.18741664,0.047614645,0.0009493514
+1-1036,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.7280593,0.67995465,0.18741664,0.047614645,0.0009493514
+1-1049,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.68306345,0.61924356,0.017461527,0.02700662,0.01512613
+1-1049,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.68306345,0.61924356,0.017461527,0.02700662,0.01512613
+1-1071,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,0,0,42,0.2876926,0.86126494,0.07231737,0.21976525,0.012267496
+1-1071,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.2876926,0.86126494,0.07231737,0.21976525,0.012267496
+1-1098,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.860869,0.5168137,0.011738723,0.20547773,0.0063930256
+1-1113,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.9220514,0.2596982,0.16066155,0.21378314,0.0020978055
+1-1113,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.9220514,0.2596982,0.16066155,0.21378314,0.0020978055
+1-1124,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.5304356,0.87139076,0.017452048,0.045080744,0.009816332
+1-1124,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.5304356,0.87139076,0.017452048,0.045080744,0.009816332
+1-1128,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.26467067,0.8399121,0.11447726,0.15330665,0.0025130622
+1-1128,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.26467067,0.8399121,0.11447726,0.15330665,0.0025130622
+1-136,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8475272,0.045720413,0.04214517,0.6821824,0.0017184739
+1-136,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.8611548,0.2810954,0.04210414,0.5163439,0.00065543276
+1-1476,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.508204,0.8444101,0.04595062,0.016950782,0.0032743784
+1-1476,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.508204,0.8444101,0.04595062,0.016950782,0.0032743784
+1-1657,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.89040786,0.22189462,0.029669529,0.93006194,0.0038632734
+1-1657,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.89040786,0.22189462,0.029669529,0.93006194,0.0038632734
+1-1657,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.89040786,0.22189462,0.029669529,0.93006194,0.0038632734
+1-1765,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.83861125,0.11566121,0.0047804033,0.4132273,0.03363409
+1-1765,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.83861125,0.11566121,0.0047804033,0.4132273,0.03363409
+1-1882,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.78384614,0.87520903,0.088655315,0.288188,0.0025633005
+1-1882,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.78384614,0.87520903,0.088655315,0.288188,0.0025633005
+1-1929,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.10374209,0.85929185,0.295011,0.013884095,0.049670123
+1-1929,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.10374209,0.85929185,0.295011,0.013884095,0.049670123
+1-1948,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.54908794,0.8273893,0.006436547,0.20187664,0.004382732
+1-1948,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.54908794,0.8273893,0.006436547,0.20187664,0.004382732
+1-1979,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.78038293,0.23119447,0.01554461,0.6893666,0.003006422
+1-1979,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.78038293,0.23119447,0.01554461,0.6893666,0.003006422
+1-1979,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.78038293,0.23119447,0.01554461,0.6893666,0.003006422
+1-2112,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,1,0,0,42,0.22237472,0.13110754,0.8852892,0.058843482,0.0024466293
+1-2112,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,1,0,0,0,42,0.3656544,0.5910635,0.5340148,0.03162578,0.00073271414
+1-2318,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,1,0,42,0.645214,0.1831689,0.06825419,0.14326641,0.002623314
+1-2318,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,1,0,42,0.64058256,0.6234095,0.03385722,0.1427952,0.0017257556
+1-2610,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.752797,0.038603332,0.47372368,0.98456186,0.02964498
+1-2610,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,1,0,0,0,42,0.79748374,0.18183117,0.30460516,0.9887601,0.011880849
+1-2610,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,1,0,42,0.79748374,0.18183117,0.30460516,0.9887601,0.011880849
+1-2723,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.6308377,0.051338457,0.050247394,0.7921659,0.008175389
+1-2723,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.6173421,0.28320965,0.035044074,0.63638043,0.0023104355
+1-2745,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.3121937,0.2769066,0.20021978,0.08905072,0.013424641
+1-2745,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.3672981,0.9453,0.024517374,0.07586363,0.005541286
+1-2863,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.81111693,0.19398177,0.14185259,0.1911195,0.003816325
+1-2863,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,1,0,0,0,42,0.8104424,0.597121,0.08827368,0.16883579,0.0018114825
+1-2863,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.8104424,0.597121,0.08827368,0.16883579,0.0018114825
+1-3335,2,Madura,Islam,no,no,F,22,Madura,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Luar Jabodetabek,0,0,1,0,0,42,0.15305053,0.056317955,0.88552994,0.44041726,0.089945816
+1-3335,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,1,0,0,0,42,0.15305053,0.056317955,0.88552994,0.44041726,0.089945816
+1-3404,2,Madura,Islam,no,no,F,22,Madura,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Luar Jabodetabek,1,0,0,0,0,42,0.30811816,0.09914927,0.375841,0.06368482,0.011820465
+1-3404,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.3199153,0.72931385,0.063223556,0.062976316,0.0028573626
+1-3504,2,Madura,Islam,no,no,F,22,Madura,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Luar Jabodetabek,1,0,0,0,0,42,0.37257716,0.10143486,0.0052501103,0.39699045,0.21962085
+1-3504,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.32603627,0.26900908,0.0042816526,0.45074385,0.062524244
+1-3765,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,0,1,0,42,0.44144458,0.04120679,0.012760244,0.95416504,0.14265764
+1-3765,30,Minang,Islam,no,no,F,31,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.44144458,0.04120679,0.012760244,0.95416504,0.14265764
+1-3765,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.44144458,0.04120679,0.012760244,0.95416504,0.14265764
+1-3765,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.5479144,0.1030935,0.007933715,0.9536734,0.031005193
+1-3984,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,0,0,42,0.40464643,0.4900055,0.010706281,0.25883996,0.0046413657
+1-3984,30,Minang,Islam,no,no,F,31,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.40464643,0.4900055,0.010706281,0.25883996,0.0046413657
+1-3984,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.40464643,0.4900055,0.010706281,0.25883996,0.0046413657
+1-4081,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,1,0,42,0.3843667,0.25570711,0.034845654,0.6143809,0.09741531
+1-4081,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,1,0,42,0.4227797,0.7025994,0.025635945,0.7306673,0.023375262
+1-42,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.74450916,0.33459318,0.003941146,0.4157758,0.25080353
+1-42,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.8128152,0.6947835,0.0025985765,0.3562439,0.0691194
+1-42,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,1,0,42,0.8128152,0.6947835,0.0025985765,0.3562439,0.0691194
+1-4230,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.5812525,0.2694529,0.025479315,0.04546676,0.39540154
+1-4230,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.6012751,0.5078757,0.02047393,0.040553987,0.17910357
+1-4352,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.45212665,0.6082724,0.15427515,0.14871508,0.0006452082
+1-4352,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.45212665,0.6082724,0.15427515,0.14871508,0.0006452082
+1-4660,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6829096,0.5251158,0.017467191,0.17457451,0.0022174479
+1-4660,32,Tionghoa,Kristen,no,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.6829096,0.5251158,0.017467191,0.17457451,0.0022174479
+1-4748,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.17890286,0.48234338,0.32460624,0.03501085,0.0010779564
+1-4748,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.17890286,0.48234338,0.32460624,0.03501085,0.0010779564
+1-5035,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.41211244,0.25996616,0.57767123,0.025920732,0.06112842
+1-5035,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.51286405,0.05343845,0.7041993,0.09692638,0.1869576
+1-5035,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.51286405,0.05343845,0.7041993,0.09692638,0.1869576
+1-5035,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.41211244,0.25996616,0.57767123,0.025920732,0.06112842
+1-5038,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.061491214,0.18297341,0.9493613,0.0352159,0.10546304
+1-5038,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.061491214,0.18297341,0.9493613,0.0352159,0.10546304
+1-5038,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.061491214,0.18297341,0.9493613,0.0352159,0.10546304
+1-5056,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,1,42,0.14565651,0.45345053,0.029999956,0.020683654,0.9254313
+1-5056,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.18855356,0.817374,0.05268478,0.0075114304,0.51271594
+1-5056,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.14565651,0.45345053,0.029999956,0.020683654,0.9254313
+1-5056,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,1,42,0.14565651,0.45345053,0.029999956,0.020683654,0.9254313
+1-5056,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.14565651,0.45345053,0.029999956,0.020683654,0.9254313
+1-5062,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.31287915,0.56552273,0.2880764,0.044144206,0.8210992
+1-5062,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.19795951,0.9035974,0.15476905,0.0279451,0.46750414
+1-5062,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.31287915,0.56552273,0.2880764,0.044144206,0.8210992
+1-5075,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,1,42,0.10433795,0.09275322,0.0025748487,0.26366782,0.98938006
+1-5075,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.21131854,0.3957696,0.0018586136,0.109567024,0.9613018
+1-5075,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.10433795,0.09275322,0.0025748487,0.26366782,0.98938006
+1-5075,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.21131854,0.3957696,0.0018586136,0.109567024,0.9613018
+1-5088,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,1,42,0.034200024,0.38829604,0.111315764,0.009673098,0.73665315
+1-5088,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,0,0,42,0.047274437,0.74036187,0.17157817,0.0045640445,0.2563588
+1-5088,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,0,0,0,1,42,0.034200024,0.38829604,0.111315764,0.009673098,0.73665315
+1-5109,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.46658576,0.3447682,0.016993236,0.12528864,0.1809035
+1-5109,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.49075392,0.783749,0.010022987,0.07705602,0.042231284
+1-5109,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,1,42,0.46658576,0.3447682,0.016993236,0.12528864,0.1809035
+1-5109,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.46658576,0.3447682,0.016993236,0.12528864,0.1809035
+1-5163,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.32387117,0.8214712,0.028835127,0.09110482,0.1398045
+1-5163,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.3412601,0.8748612,0.045354005,0.049998373,0.020132067
+1-5163,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.32387117,0.8214712,0.028835127,0.09110482,0.1398045
+1-5163,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.32387117,0.8214712,0.028835127,0.09110482,0.1398045
+1-5185,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.14353842,0.27275267,0.0050044395,0.2758622,0.9000877
+1-5185,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,1,42,0.14353842,0.27275267,0.0050044395,0.2758622,0.9000877
+1-5185,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.14353842,0.27275267,0.0050044395,0.2758622,0.9000877
+1-5191,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.22142458,0.33958584,0.77655524,0.024684947,0.014320947
+1-5191,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.3264558,0.9146172,0.4539016,0.025776587,0.0051735174
+1-5191,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,1,0,0,0,42,0.22142458,0.33958584,0.77655524,0.024684947,0.014320947
+1-5191,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.22142458,0.33958584,0.77655524,0.024684947,0.014320947
+1-5191,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.22142458,0.33958584,0.77655524,0.024684947,0.014320947
+1-5191,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.3264558,0.9146172,0.4539016,0.025776587,0.0051735174
+1-5225,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.1854018,0.69565815,0.011524374,0.18738309,0.8026532
+1-5225,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.1854018,0.69565815,0.011524374,0.18738309,0.8026532
+1-5225,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,1,42,0.1854018,0.69565815,0.011524374,0.18738309,0.8026532
+1-5225,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.1854018,0.69565815,0.011524374,0.18738309,0.8026532
+1-5255,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.06387537,0.38314238,0.0072588422,0.68205935,0.93456244
+1-5255,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.13141526,0.82825524,0.005890904,0.47126576,0.33506355
+1-5279,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.16916735,0.09545256,0.0076018106,0.05641229,0.9304843
+1-5279,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.21839885,0.16763403,0.006724859,0.06763016,0.6563439
+1-5279,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.16916735,0.09545256,0.0076018106,0.05641229,0.9304843
+1-5287,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,1,42,0.018063461,0.036588836,0.007485433,0.80738246,0.99172276
+1-5287,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,0,1,42,0.010457964,0.064714655,0.004953393,0.55614936,0.9901416
+1-5287,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,1,1,42,0.010457964,0.064714655,0.004953393,0.55614936,0.9901416
+1-5308,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.56126034,0.8328776,0.7627279,0.008724166,0.06071603
+1-5308,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.56126034,0.8328776,0.7627279,0.008724166,0.06071603
+1-5332,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,1,42,0.008036915,0.014164992,0.0083383685,0.4474728,0.989503
+1-5332,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,0,1,42,0.010044158,0.030695695,0.0059652324,0.20798124,0.98719937
+1-5332,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,0,0,1,1,42,0.008036915,0.014164992,0.0083383685,0.4474728,0.989503
+1-5332,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,1,42,0.008036915,0.014164992,0.0083383685,0.4474728,0.989503
+1-5332,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.008036915,0.014164992,0.0083383685,0.4474728,0.989503
+1-5334,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.42724627,0.5875611,0.41786927,0.03439715,0.29732782
+1-5334,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.2970307,0.9025661,0.46836865,0.020315178,0.059360504
+1-5334,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.42724627,0.5875611,0.41786927,0.03439715,0.29732782
+1-5334,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.42724627,0.5875611,0.41786927,0.03439715,0.29732782
+1-5400,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.82544875,0.693683,0.011891826,0.34027475,0.032847513
+1-5400,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.8712334,0.13307504,0.036024068,0.5240434,0.13151273
+1-5400,27,Aceh,Islam,no,no,M,59,Banda Aceh,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8712334,0.13307504,0.036024068,0.5240434,0.13151273
+1-5400,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.82544875,0.693683,0.011891826,0.34027475,0.032847513
+1-5432,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,1,42,0.1402416,0.11215254,0.007047366,0.06344779,0.9598109
+1-5432,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,0,1,42,0.17277738,0.31777477,0.005804838,0.022332286,0.8505961
+1-5432,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,0,0,0,1,42,0.1402416,0.11215254,0.007047366,0.06344779,0.9598109
+1-5452,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.009884611,0.12396771,0.012603936,0.52864385,0.9848614
+1-5452,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.01280804,0.27772966,0.010282078,0.2169766,0.9621643
+1-5452,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,1,0,1,1,42,0.009884611,0.12396771,0.012603936,0.52864385,0.9848614
+1-5452,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,1,42,0.009884611,0.12396771,0.012603936,0.52864385,0.9848614
+1-5452,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.009884611,0.12396771,0.012603936,0.52864385,0.9848614
+1-5590,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.37068933,0.56463313,0.036608137,0.025691725,0.013651236
+1-5590,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.38956407,0.17997362,0.19896619,0.025708433,0.045757815
+1-5590,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,1,0,0,42,0.38956407,0.17997362,0.19896619,0.025708433,0.045757815
+1-5590,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,0,1,0,0,42,0.38956407,0.17997362,0.19896619,0.025708433,0.045757815
+1-5669,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.5650989,0.022349268,0.34814316,0.39493462,0.0036964794
+1-5669,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.48773882,0.28167322,0.32847586,0.15731934,0.0010783897
+1-5669,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.5650989,0.022349268,0.34814316,0.39493462,0.0036964794
+1-5669,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.5650989,0.022349268,0.34814316,0.39493462,0.0036964794
+1-5821,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.27154478,0.2879013,0.19581924,0.07900076,0.015754838
+1-5821,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.35205775,0.8058064,0.09171525,0.09423883,0.0043630176
+1-5821,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.27154478,0.2879013,0.19581924,0.07900076,0.015754838
+1-5821,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.27154478,0.2879013,0.19581924,0.07900076,0.015754838
+1-5821,27,Aceh,Islam,no,no,M,59,Banda Aceh,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.27154478,0.2879013,0.19581924,0.07900076,0.015754838
+1-5890,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.38622656,0.30467123,0.013593649,0.922399,0.854156
+1-5890,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.69441783,0.7715979,0.005020528,0.7519349,0.26882648
+1-5890,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,1,42,0.38622656,0.30467123,0.013593649,0.922399,0.854156
+1-5890,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.38622656,0.30467123,0.013593649,0.922399,0.854156
+1-5910,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.32623652,0.043417607,0.004366143,0.8113944,0.03785693
+1-5910,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,0,0,1,0,42,0.32623652,0.043417607,0.004366143,0.8113944,0.03785693
+1-5910,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.32623652,0.043417607,0.004366143,0.8113944,0.03785693
+1-5910,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.32623652,0.043417607,0.004366143,0.8113944,0.03785693
+1-5983,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.92597955,0.04336549,0.021986026,0.22145991,0.010849626
+1-5983,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.93483037,0.09960921,0.018373324,0.24413021,0.0053404286
+1-5983,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.92597955,0.04336549,0.021986026,0.22145991,0.010849626
+1-5983,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.92597955,0.04336549,0.021986026,0.22145991,0.010849626
+1-5983,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,0,0,0,0,42,0.92597955,0.04336549,0.021986026,0.22145991,0.010849626
+1-6008,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.52955997,0.87452644,0.08587449,0.047156293,0.007540683
+1-6008,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.5253262,0.20781757,0.66193914,0.048885815,0.0293161
+1-6008,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,1,1,0,0,42,0.5253262,0.20781757,0.66193914,0.048885815,0.0293161
+1-6050,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.14183979,0.88607365,0.4583291,0.0317976,0.05846785
+1-6050,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.14728998,0.41515553,0.60975254,0.03325422,0.14063026
+1-6060,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.14332901,0.76557344,0.66977096,0.26508707,0.003142984
+1-6060,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.19156252,0.20276283,0.8705833,0.4221487,0.012958774
+1-6060,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,1,0,0,0,42,0.19156252,0.20276283,0.8705833,0.4221487,0.012958774
+1-6096,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.52215,0.9165145,0.089011855,0.16388154,0.011778298
+1-6096,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.5615305,0.16859803,0.5765007,0.1996432,0.062832355
+1-6096,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,1,0,42,0.5615305,0.16859803,0.5765007,0.1996432,0.062832355
+1-6106,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.69859046,0.71924394,0.07047966,0.19507618,0.002144246
+1-6106,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.7623325,0.16239755,0.2000103,0.1942472,0.0040456215
+1-6106,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,1,0,0,0,42,0.7623325,0.16239755,0.2000103,0.1942472,0.0040456215
+1-6106,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.69859046,0.71924394,0.07047966,0.19507618,0.002144246
+1-6109,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.14996643,0.7984457,0.30213284,0.012419391,0.0054333736
+1-6109,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.10775603,0.18578131,0.8265403,0.016011618,0.015655417
+1-6116,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6080765,0.80088764,0.030236945,0.19896387,0.014833955
+1-6116,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.7530217,0.20003353,0.15819938,0.24790414,0.062018335
+1-6116,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.6080765,0.80088764,0.030236945,0.19896387,0.014833955
+1-6134,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.40747365,0.7481062,0.28505853,0.27788568,0.0060057365
+1-6134,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.37683418,0.17067952,0.63529915,0.22466023,0.019083295
+1-6134,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.40747365,0.7481062,0.28505853,0.27788568,0.0060057365
+1-6162,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.38974038,0.20965734,0.7267443,0.69299495,0.02801835
+1-6162,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.2818765,0.040382314,0.8957174,0.7794945,0.0705067
+1-6162,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.2818765,0.040382314,0.8957174,0.7794945,0.0705067
+1-6178,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4837433,0.92329085,0.15669054,0.09058094,0.011175353
+1-6178,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.6611287,0.44174498,0.35595876,0.09869097,0.026831504
+1-6178,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.4837433,0.92329085,0.15669054,0.09058094,0.011175353
+1-6183,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.82455367,0.7779594,0.060161572,0.18866397,0.04106368
+1-6183,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.82455367,0.7779594,0.060161572,0.18866397,0.04106368
+1-6185,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.62336713,0.80632895,0.07742273,0.20301755,0.0015131963
+1-6185,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.7228215,0.104701765,0.5591078,0.23635876,0.0054586506
+1-6200,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.48536825,0.8800474,0.023670498,0.16454592,0.006333794
+1-6200,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.5442129,0.18852755,0.17445225,0.17467274,0.0176523
+1-6200,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.5442129,0.18852755,0.17445225,0.17467274,0.0176523
+1-6280,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.41711748,0.9247584,0.030603545,0.032790907,0.0048839482
+1-6280,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.48038727,0.58588046,0.11265272,0.024400229,0.0061585284
+1-6280,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.41711748,0.9247584,0.030603545,0.032790907,0.0048839482
+1-6300,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.82624006,0.3417679,0.1091314,0.06883935,0.00067715364
+1-6300,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.7233009,0.07557639,0.27785668,0.048703868,0.0018719495
+1-6300,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.7233009,0.07557639,0.27785668,0.048703868,0.0018719495
+1-6477,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.776378,0.20598206,0.46969816,0.01934004,0.00751987
+1-6477,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.776378,0.20598206,0.46969816,0.01934004,0.00751987
+1-6573,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.45385307,0.77824044,0.101646565,0.14406443,0.012437933
+1-6573,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.6633227,0.20879564,0.29170224,0.15912889,0.037436858
+1-6573,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.45385307,0.77824044,0.101646565,0.14406443,0.012437933
+1-6579,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.8758986,0.40947524,0.13279425,0.5162983,0.014983822
+1-6579,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.87095,0.07103226,0.15063758,0.43908647,0.06232863
+1-6579,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.87095,0.07103226,0.15063758,0.43908647,0.06232863
+1-6617,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.30195737,0.8973477,0.5726918,0.015463704,0.007729293
+1-6617,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.3172285,0.5035949,0.666153,0.02170575,0.024239497
+1-6629,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.3923367,0.9220616,0.22999717,0.038848534,0.0029669178
+1-6629,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,1,0,0,42,0.3923367,0.9220616,0.22999717,0.038848534,0.0029669178
+1-6631,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.5137093,0.9087465,0.015818043,0.20673393,0.015363553
+1-6631,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.5137093,0.9087465,0.015818043,0.20673393,0.015363553
+1-6639,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.38791722,0.73074317,0.040187977,0.5228413,0.0014095429
+1-6639,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.40209296,0.14181755,0.1696095,0.51789236,0.0056010126
+1-6639,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.40209296,0.14181755,0.1696095,0.51789236,0.0056010126
+1-6694,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4885363,0.94184387,0.047027405,0.07015568,0.006243164
+1-6694,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.4614398,0.4352505,0.47574297,0.0476352,0.024563992
+1-6694,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.4885363,0.94184387,0.047027405,0.07015568,0.006243164
+1-6697,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8700577,0.019139074,0.18549992,0.1840373,0.0067413007
+1-6697,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.8700577,0.019139074,0.18549992,0.1840373,0.0067413007
+1-674,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.770887,0.08484914,0.35879737,0.1165623,0.000814426
+1-674,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.770887,0.08484914,0.35879737,0.1165623,0.000814426
+1-6745,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.3084435,0.8036296,0.1434404,0.2910587,0.035610203
+1-6745,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,0,1,0,42,0.30310932,0.33047393,0.68168217,0.5088446,0.19324301
+1-6745,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.30310932,0.33047393,0.68168217,0.5088446,0.19324301
+1-6745,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,1,0,42,0.3084435,0.8036296,0.1434404,0.2910587,0.035610203
+1-68,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8985412,0.017001232,0.17615706,0.55876046,0.0038195709
+1-68,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.90766233,0.092712305,0.22114383,0.45467475,0.0008633219
+1-6871,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.4641822,0.7307682,0.3751904,0.056107312,0.0007041465
+1-6871,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.36171138,0.063944615,0.77038383,0.090658665,0.0028309058
+1-6871,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.36171138,0.063944615,0.77038383,0.090658665,0.0028309058
+1-6977,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.72802883,0.8710701,0.018985799,0.026013358,0.006425481
+1-6977,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.72802883,0.8710701,0.018985799,0.026013358,0.006425481
+1-79,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8799401,0.22915491,0.1990429,0.049886808,0.035648204
+1-79,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.8204958,0.65892994,0.08003867,0.034868304,0.019546365
+1-917,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.6227695,0.75864035,0.14202014,0.02472607,0.0036403027
+1-917,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.6227695,0.75864035,0.14202014,0.02472607,0.0036403027
+101-100,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.5182773,0.71931237,0.08245356,0.11960428,0.0028729173
+101-100,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-100,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.5182773,0.71931237,0.08245356,0.11960428,0.0028729173
+101-100,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,1,1,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-100,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.5182773,0.71931237,0.08245356,0.11960428,0.0028729173
+101-100,4,Bali,Hindu,no,no,M,23,Bandung,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,0,1,0,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-100,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,1,0,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-100,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-100,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,0,1,0,0,42,0.5182773,0.71931237,0.08245356,0.11960428,0.0028729173
+101-100,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5182773,0.71931237,0.08245356,0.11960428,0.0028729173
+101-100,16,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,1,0,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-100,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,0,1,0,0,0,42,0.5182773,0.71931237,0.08245356,0.11960428,0.0028729173
+101-100,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.5091391,0.10312494,0.45823473,0.16207835,0.016033
+101-12,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,1,0,0,0,42,0.6057908,0.8630648,0.015510512,0.20858347,0.0049609267
+101-12,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,1,1,0,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.6057908,0.8630648,0.015510512,0.20858347,0.0049609267
+101-12,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,1,0,1,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6057908,0.8630648,0.015510512,0.20858347,0.0049609267
+101-12,4,Bali,Hindu,no,no,M,23,Bandung,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,0,1,0,0,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,1,0,0,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,1,1,0,0,0,42,0.6057908,0.8630648,0.015510512,0.20858347,0.0049609267
+101-12,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,1,1,0,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6057908,0.8630648,0.015510512,0.20858347,0.0049609267
+101-12,16,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,1,0,1,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-12,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,1,1,1,1,0,42,0.6057908,0.8630648,0.015510512,0.20858347,0.0049609267
+101-12,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.5850785,0.67784667,0.03927615,0.2136469,0.005743857
+101-49,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.92579293,0.11939953,0.0098276,0.37540442,0.007761752
+101-49,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,1,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-49,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,1,0,42,0.92579293,0.11939953,0.0098276,0.37540442,0.007761752
+101-49,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,0,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-49,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,1,1,0,0,42,0.92579293,0.11939953,0.0098276,0.37540442,0.007761752
+101-49,4,Bali,Hindu,no,no,M,23,Bandung,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,0,0,1,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-49,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-49,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-49,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.92579293,0.11939953,0.0098276,0.37540442,0.007761752
+101-49,16,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,0,0,1,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-49,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,1,1,0,1,0,42,0.92579293,0.11939953,0.0098276,0.37540442,0.007761752
+101-49,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.92267615,0.035927843,0.016548427,0.45361486,0.02105969
+101-52,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.8778927,0.21640946,0.122456454,0.066103265,0.005866954
+101-52,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.8778927,0.21640946,0.122456454,0.066103265,0.005866954
+101-52,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,1,0,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.8778927,0.21640946,0.122456454,0.066103265,0.005866954
+101-52,4,Bali,Hindu,no,no,M,23,Bandung,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,0,0,1,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,1,0,0,0,0,42,0.8778927,0.21640946,0.122456454,0.066103265,0.005866954
+101-52,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.8778927,0.21640946,0.122456454,0.066103265,0.005866954
+101-52,16,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,0,0,1,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,1,1,0,1,0,42,0.8778927,0.21640946,0.122456454,0.066103265,0.005866954
+101-52,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-52,27,Aceh,Islam,no,no,M,59,Banda Aceh,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.8996576,0.08637802,0.11368016,0.051230542,0.0104355095
+101-70,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,0,0,0,42,0.74482393,0.6591494,0.05715786,0.29614845,0.002066648
+101-70,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,1,1,1,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.74482393,0.6591494,0.05715786,0.29614845,0.002066648
+101-70,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,1,0,0,1,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,1,1,0,0,42,0.74482393,0.6591494,0.05715786,0.29614845,0.002066648
+101-70,4,Bali,Hindu,no,no,M,23,Bandung,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,1,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,1,0,0,0,0,42,0.74482393,0.6591494,0.05715786,0.29614845,0.002066648
+101-70,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,1,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.74482393,0.6591494,0.05715786,0.29614845,0.002066648
+101-70,16,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,1,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,1,1,0,1,0,42,0.74482393,0.6591494,0.05715786,0.29614845,0.002066648
+101-70,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-70,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,1,0,0,42,0.76126033,0.10014791,0.20030664,0.18713826,0.0043284413
+101-75,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,0,0,0,42,0.31549564,0.8356106,0.08871116,0.061471194,0.00715395
+101-75,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,1,0,0,0,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,1,0,1,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,0,0,0,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,1,0,0,0,42,0.31549564,0.8356106,0.08871116,0.061471194,0.00715395
+101-75,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.31549564,0.8356106,0.08871116,0.061471194,0.00715395
+101-75,16,Bugis,Islam,no,no,F,19,Makassar,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Luar Jabodetabek,1,1,0,0,0,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,0,1,0,0,0,42,0.31549564,0.8356106,0.08871116,0.061471194,0.00715395
+101-75,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,1,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+101-75,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.31132388,0.25495794,0.40252358,0.1873668,0.034874376
+103-142,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,1,0,0,0,42,0.5338539,0.6996785,0.09377197,0.14799576,0.0024288914
+103-142,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,0,1,0,1,0,42,0.5338539,0.6996785,0.09377197,0.14799576,0.0024288914
+103-142,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.5338539,0.6996785,0.09377197,0.14799576,0.0024288914
+103-142,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,1,1,0,0,42,0.5338539,0.6996785,0.09377197,0.14799576,0.0024288914
+103-142,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,0,0,42,0.57318145,0.12755135,0.46359506,0.16904116,0.011953898
+103-142,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,1,1,0,0,42,0.57318145,0.12755135,0.46359506,0.16904116,0.011953898
+103-142,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,1,0,0,42,0.5338539,0.6996785,0.09377197,0.14799576,0.0024288914
+103-142,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.57318145,0.12755135,0.46359506,0.16904116,0.011953898
+103-142,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.57318145,0.12755135,0.46359506,0.16904116,0.011953898
+103-142,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,0,1,0,0,42,0.57318145,0.12755135,0.46359506,0.16904116,0.011953898
+103-189,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.8701122,0.21788226,0.032208905,0.77671784,0.001742315
+103-189,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,0,0,1,0,42,0.8701122,0.21788226,0.032208905,0.77671784,0.001742315
+103-189,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-189,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,1,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-189,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,1,0,0,1,0,42,0.8701122,0.21788226,0.032208905,0.77671784,0.001742315
+103-189,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-189,2,Madura,Islam,no,no,F,22,Madura,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Luar Jabodetabek,0,0,1,0,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-189,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.8701122,0.21788226,0.032208905,0.77671784,0.001742315
+103-189,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.8701122,0.21788226,0.032208905,0.77671784,0.001742315
+103-189,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-189,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,1,1,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-189,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.8701122,0.21788226,0.032208905,0.77671784,0.001742315
+103-189,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.8909927,0.030379172,0.117392175,0.7806175,0.0050698644
+103-26,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.35622847,0.3862676,0.08454168,0.6655621,0.0023362248
+103-26,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.18009523,0.08241692,0.13229805,0.7930374,0.027559534
+103-26,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,0,0,0,1,0,42,0.35622847,0.3862676,0.08454168,0.6655621,0.0023362248
+103-26,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.18009523,0.08241692,0.13229805,0.7930374,0.027559534
+103-26,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.35622847,0.3862676,0.08454168,0.6655621,0.0023362248
+103-26,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.35622847,0.3862676,0.08454168,0.6655621,0.0023362248
+103-26,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,0,0,42,0.18009523,0.08241692,0.13229805,0.7930374,0.027559534
+103-26,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.18009523,0.08241692,0.13229805,0.7930374,0.027559534
+103-26,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.35622847,0.3862676,0.08454168,0.6655621,0.0023362248
+103-26,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,0,0,1,0,42,0.18009523,0.08241692,0.13229805,0.7930374,0.027559534
+103-26,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.18009523,0.08241692,0.13229805,0.7930374,0.027559534
+103-29,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.32718882,0.9226041,0.034222063,0.0552327,0.008852922
+103-29,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.37221766,0.44256607,0.13523164,0.049024973,0.017047187
+103-29,8,Arab,Islam,no,no,M,23,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,1,Jabodetabek,0,1,0,0,0,42,0.32718882,0.9226041,0.034222063,0.0552327,0.008852922
+103-29,6,Minang,Ahmadiyah,no,no,F,22,Jakarta,Sarjana (S1),Bekerja,3,Jabodetabek,0,1,0,1,0,42,0.32718882,0.9226041,0.034222063,0.0552327,0.008852922
+103-29,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.32718882,0.9226041,0.034222063,0.0552327,0.008852922
+103-29,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,0,0,42,0.37221766,0.44256607,0.13523164,0.049024973,0.017047187
+103-29,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.37221766,0.44256607,0.13523164,0.049024973,0.017047187
+103-96,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.865176,0.10359753,0.1418955,0.8149072,0.0020225286
+103-96,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,1,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.865176,0.10359753,0.1418955,0.8149072,0.0020225286
+103-96,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,1,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,9,Jawa,Islam,no,no,F,21,Magelang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,1,1,1,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.865176,0.10359753,0.1418955,0.8149072,0.0020225286
+103-96,30,Minang,Islam,no,no,F,31,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,1,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+103-96,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.8519329,0.016965052,0.17196359,0.788152,0.0066216625
+2-10102,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,1,0,0,0,42,0.39471892,0.022562638,0.01968006,0.8183319,0.061318956
+2-10189,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,1,0,42,0.92027617,0.018218314,0.025836803,0.12469954,0.04031977
+2-10369,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.36552632,0.497284,0.025862362,0.34632722,0.0017973627
+2-10381,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,1,0,0,0,42,0.3856261,0.08038886,0.0056649023,0.6744965,0.033800367
+2-10491,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,0,0,42,0.33793354,0.53495705,0.43728682,0.267392,0.0072582
+2-10505,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,1,0,42,0.9055695,0.15769057,0.067957796,0.3746062,0.0013899866
+2-1052,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.39824733,0.31788665,0.042778622,0.7595951,0.0011311474
+2-1052,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.44698393,0.06387173,0.20559992,0.74485016,0.0031554834
+2-1052,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.44698393,0.06387173,0.20559992,0.74485016,0.0031554834
+2-10540,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.081911236,0.14005518,0.97955793,0.075146064,0.006305025
+2-10540,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.33800504,0.6017166,0.950256,0.10676428,0.0018931744
+2-10618,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,0,1,0,42,0.43203893,0.016217586,0.011355695,0.9032448,0.017282756
+2-10626,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.17386675,0.17550525,0.29984933,0.048227083,0.009104969
+2-10627,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.8780355,0.07639697,0.2772516,0.17117545,0.016141534
+2-10778,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.6067455,0.029427838,0.020582845,0.611601,0.009703307
+2-10818,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,1,0,0,42,0.53436655,0.07784176,0.8028373,0.14818539,0.04255152
+2-10818,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.65919507,0.5650929,0.52299875,0.12253897,0.0056925863
+2-10833,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.89874643,0.62219995,0.018585784,0.076573126,0.004760384
+2-10833,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.89874643,0.62219995,0.018585784,0.076573126,0.004760384
+2-10877,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,1,0,0,42,0.2589534,0.25547102,0.4992552,0.062626414,0.0044100317
+2-1090,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.9264221,0.06273447,0.04246043,0.5383429,0.0016198255
+2-1090,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.9264221,0.06273447,0.04246043,0.5383429,0.0016198255
+2-1090,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.87189496,0.011890061,0.054539103,0.5008876,0.009144115
+2-1090,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.87189496,0.011890061,0.054539103,0.5008876,0.009144115
+2-1090,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,0,0,42,0.87189496,0.011890061,0.054539103,0.5008876,0.009144115
+2-1090,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.9264221,0.06273447,0.04246043,0.5383429,0.0016198255
+2-11001,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8220191,0.3831004,0.02713467,0.07917251,0.0034187832
+2-11043,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9463451,0.030118141,0.042515513,0.16040626,0.0038027796
+2-11043,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.9448602,0.0149182165,0.049700584,0.15215127,0.010569961
+2-11072,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.5240591,0.8962753,0.0919221,0.22642788,0.016308503
+2-11072,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.43091077,0.25679258,0.5793125,0.23085766,0.061437402
+2-11072,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.43091077,0.25679258,0.5793125,0.23085766,0.061437402
+2-11076,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.32088944,0.9029447,0.85208946,0.24950255,0.0009133522
+2-11076,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.21735492,0.36013237,0.94724214,0.23281243,0.0014937102
+2-11076,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.21735492,0.36013237,0.94724214,0.23281243,0.0014937102
+2-11098,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.42866716,0.5589897,0.0028525614,0.22814861,0.1815314
+2-11098,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.21975663,0.21414329,0.007663811,0.18933973,0.8373568
+2-11098,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.21975663,0.21414329,0.007663811,0.18933973,0.8373568
+2-11154,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,0,0,42,0.29438642,0.8806185,0.635171,0.1603864,0.043011863
+2-11154,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.29438642,0.8806185,0.635171,0.1603864,0.043011863
+2-11154,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.24473736,0.5410436,0.7105542,0.16617234,0.108600244
+2-11161,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.29558307,0.67288375,0.34962147,0.31138554,0.0048055574
+2-11161,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.2593147,0.118110284,0.57884204,0.30664858,0.03083466
+2-11161,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.2593147,0.118110284,0.57884204,0.30664858,0.03083466
+2-1124,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.43732184,0.017211381,0.007661588,0.44327247,0.047601987
+2-1124,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.43732184,0.017211381,0.007661588,0.44327247,0.047601987
+2-11652,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.41580352,0.7855333,0.055631205,0.08130291,0.0027554804
+2-11652,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.41580352,0.7855333,0.055631205,0.08130291,0.0027554804
+2-11748,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.65573066,0.022007726,0.30289596,0.90685683,0.005414434
+2-11748,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.65573066,0.022007726,0.30289596,0.90685683,0.005414434
+2-11844,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8991618,0.03160426,0.08595189,0.13191146,0.0090864925
+2-11844,33,Tionghoa,Kristen,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.9092604,0.1560853,0.02715527,0.10744914,0.0030903914
+2-12003,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7327074,0.8192376,0.18491326,0.39425552,0.0006465089
+2-12003,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7327074,0.8192376,0.18491326,0.39425552,0.0006465089
+2-12003,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.70655835,0.33715647,0.4418896,0.61082923,0.0015544958
+2-12032,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.93019176,0.26420555,0.011542688,0.18865295,0.0025176995
+2-12059,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8390664,0.33466306,0.03150163,0.111690395,0.0019107815
+2-12059,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.9146114,0.069354735,0.08221673,0.20347491,0.0041654846
+2-12091,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.4465291,0.8583556,0.5405521,0.09453434,0.0012924931
+2-12091,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,0,0,42,0.4465291,0.8583556,0.5405521,0.09453434,0.0012924931
+2-12091,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,1,0,0,0,42,0.41751492,0.1409551,0.83498573,0.16393852,0.008925195
+2-12134,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,0,1,1,42,0.15057157,0.10360231,0.0042057373,0.40228578,0.9270432
+2-12134,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,0,1,42,0.39227274,0.36102384,0.003040994,0.19330582,0.4987271
+2-12134,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,0,0,0,1,42,0.15057157,0.10360231,0.0042057373,0.40228578,0.9270432
+2-12344,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.5947693,0.02698958,0.100134276,0.12203778,0.005963584
+2-12352,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,0,0,1,0,0,42,0.4132131,0.066835485,0.7945322,0.2769173,0.00744948
+2-12387,13,Dayak,Katolik,no,no,M,20,Pontianak,Sarjana (S1),Pelajar/Mahasiswa,2,Luar Jabodetabek,1,0,0,0,0,42,0.19896542,0.5547068,0.48062375,0.19564922,0.034863845
+2-12451,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6254624,0.42220968,0.052054033,0.09054059,0.00225816
+2-12451,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.6709387,0.12274601,0.16110086,0.05695163,0.0032808322
+2-12465,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.24905136,0.2695495,0.5459135,0.021392262,0.004489137
+2-12476,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.05097173,0.71673733,0.40440187,0.053526763,0.033114173
+2-12476,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.06542167,0.29140624,0.7782843,0.108587794,0.07355844
+2-12489,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.211974,0.85793394,0.35247687,0.042050354,0.0098857805
+2-12489,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.211974,0.85793394,0.35247687,0.042050354,0.0098857805
+2-12489,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.211974,0.85793394,0.35247687,0.042050354,0.0098857805
+2-12492,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.6516101,0.38931707,0.069230884,0.22111967,0.018645886
+2-1273,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,0,0,42,0.29836875,0.42709735,0.48274985,0.055968918,0.0054049212
+2-12771,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.770357,0.3376256,0.04502315,0.048939653,0.027210662
+2-12771,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.7002747,0.08246673,0.2631765,0.09660301,0.08834355
+2-12784,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.16532297,0.8345488,0.9395876,0.042880766,0.0078679025
+2-12784,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.1305099,0.166072,0.971466,0.062440764,0.028888931
+2-12784,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.1305099,0.166072,0.971466,0.062440764,0.028888931
+2-12793,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.8498631,0.85827744,0.025417982,0.8151164,0.0049337815
+2-12793,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.89277744,0.2933077,0.12174116,0.8141999,0.0054728496
+2-12793,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.8498631,0.85827744,0.025417982,0.8151164,0.0049337815
+2-1290,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.93614143,0.058588006,0.038587656,0.05875596,0.0074260486
+2-1295,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.5975536,0.91611654,0.02507707,0.32113576,0.030853683
+2-1295,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.6710818,0.4090918,0.17194526,0.3064701,0.14854613
+2-1295,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.6710818,0.4090918,0.17194526,0.3064701,0.14854613
+2-12997,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.21989627,0.54222727,0.17932838,0.46155393,0.0014663571
+2-1333,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,1,0,42,0.78385895,0.8318097,0.05666741,0.7880857,0.0088401865
+2-1333,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.86462545,0.26141903,0.16910717,0.7545513,0.043740887
+2-1339,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.1705781,0.5313568,0.038471248,0.73263156,0.021723913
+2-1339,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,0,0,1,1,42,0.12031538,0.21244194,0.06899158,0.8474274,0.1380495
+2-1339,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,0,0,1,1,42,0.12031538,0.21244194,0.06899158,0.8474274,0.1380495
+2-135,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.785545,0.8607453,0.013801203,0.063041285,0.008141599
+2-135,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.785545,0.8607453,0.013801203,0.063041285,0.008141599
+2-135,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.86509424,0.62036014,0.026986117,0.07806057,0.004436016
+2-1412,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.76252073,0.02506166,0.37260285,0.23232351,0.001954117
+2-1412,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.76252073,0.02506166,0.37260285,0.23232351,0.001954117
+2-1456,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.285789,0.89611083,0.019777015,0.27708712,0.005024395
+2-1456,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,1,0,42,0.31713596,0.65094185,0.049669944,0.2328509,0.00856959
+2-1456,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.31713596,0.65094185,0.049669944,0.2328509,0.00856959
+2-1485,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.81655395,0.71086353,0.012638432,0.11568959,0.009679815
+2-1485,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,1,0,0,0,42,0.86362296,0.21317407,0.030017534,0.08327013,0.016185666
+2-1485,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.86362296,0.21317407,0.030017534,0.08327013,0.016185666
+2-1544,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.31131598,0.9119201,0.48547882,0.061198115,0.0019609344
+2-1544,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.18947464,0.29467294,0.7610141,0.0887298,0.008126618
+2-1544,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.18947464,0.29467294,0.7610141,0.0887298,0.008126618
+2-1545,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.06706081,0.4214177,0.688935,0.025260217,0.007394669
+2-162,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.09395904,0.36803502,0.89733744,0.03519919,0.0020355957
+2-1650,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,1,0,42,0.6297141,0.9389072,0.06063003,0.3033239,0.0078077503
+2-1650,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.76961434,0.4625271,0.28036562,0.42151734,0.029164344
+2-1650,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.76961434,0.4625271,0.28036562,0.42151734,0.029164344
+2-1669,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.38293448,0.8529807,0.052449927,0.059464544,0.0024545034
+2-1669,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.27625114,0.16170318,0.26459637,0.06718223,0.008186191
+2-1669,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.27625114,0.16170318,0.26459637,0.06718223,0.008186191
+2-1691,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,0,0,1,0,42,0.7074058,0.296134,0.002000181,0.7273071,0.07387133
+2-1691,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.70343727,0.13916105,0.0024235593,0.7296418,0.25884873
+2-1691,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.70343727,0.13916105,0.0024235593,0.7296418,0.25884873
+2-1744,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.5113516,0.07545856,0.015941735,0.60606265,0.01770019
+2-200,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.926513,0.06859797,0.03985368,0.07185716,0.0069263573
+2-200,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.926513,0.06859797,0.03985368,0.07185716,0.0069263573
+2-2030,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.40450668,0.18178803,0.0040244902,0.669225,0.38525912
+2-2030,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,1,42,0.46734098,0.6170023,0.0051664296,0.6281699,0.06977864
+2-2054,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.80694145,0.6032554,0.06476649,0.5824005,0.000685283
+2-2054,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.80694145,0.6032554,0.06476649,0.5824005,0.000685283
+2-210,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.2973419,0.8802075,0.038878046,0.0644077,0.008178641
+2-210,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.26853,0.35355484,0.16235471,0.059483927,0.015477955
+2-210,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.2973419,0.8802075,0.038878046,0.0644077,0.008178641
+2-2157,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.28482237,0.07603703,0.10001287,0.761191,0.011517043
+2-2157,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.23956089,0.2719992,0.022495909,0.76449907,0.0029136268
+2-2157,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.23956089,0.2719992,0.022495909,0.76449907,0.0029136268
+2-219,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.7288622,0.0414016,0.010786949,0.596856,0.008939117
+2-219,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.7288622,0.0414016,0.010786949,0.596856,0.008939117
+2-226,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.22237132,0.8664216,0.0690875,0.09823039,0.0061204256
+2-24,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.32986414,0.035850335,0.008386793,0.8425506,0.014966434
+2-24,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.19142084,0.015366287,0.013345826,0.8682598,0.18837164
+2-2496,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.5332665,0.88618314,0.008568387,0.09772624,0.051316485
+2-2496,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.5332665,0.88618314,0.008568387,0.09772624,0.051316485
+2-2555,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,1,42,0.28686062,0.096381776,0.010203453,0.97913855,0.07450562
+2-2555,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.28686062,0.096381776,0.010203453,0.97913855,0.07450562
+2-2555,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,1,42,0.28686062,0.096381776,0.010203453,0.97913855,0.07450562
+2-261,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.25926608,0.8633072,0.045056015,0.13140884,0.00666721
+2-2634,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.90197426,0.08084244,0.013915472,0.129955,0.02054342
+2-2634,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.90197426,0.08084244,0.013915472,0.129955,0.02054342
+2-2634,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.9170276,0.04132424,0.03148488,0.15875527,0.04899037
+2-2645,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,0,0,42,0.55637294,0.5807519,0.008071626,0.16658212,0.007852842
+2-2645,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.55637294,0.5807519,0.008071626,0.16658212,0.007852842
+2-2645,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.55637294,0.5807519,0.008071626,0.16658212,0.007852842
+2-272,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.65929776,0.6948243,0.27856442,0.020529158,0.0015712498
+2-272,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.65929776,0.6948243,0.27856442,0.020529158,0.0015712498
+2-272,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.65929776,0.6948243,0.27856442,0.020529158,0.0015712498
+2-2736,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.70500267,0.73171246,0.06547476,0.33618227,0.0057484554
+2-2736,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.70500267,0.73171246,0.06547476,0.33618227,0.0057484554
+2-2747,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.6823267,0.7986204,0.024288394,0.85610384,0.0071332827
+2-2747,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.6823267,0.7986204,0.024288394,0.85610384,0.0071332827
+2-2782,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.44696915,0.7729344,0.017030073,0.019964544,0.023150392
+2-2782,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.44696915,0.7729344,0.017030073,0.019964544,0.023150392
+2-2801,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.7100931,0.86998594,0.009847978,0.90155375,0.0065046977
+2-2801,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.7100931,0.86998594,0.009847978,0.90155375,0.0065046977
+2-2826,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.53988194,0.9475328,0.1003805,0.2761644,0.01471145
+2-2826,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.53988194,0.9475328,0.1003805,0.2761644,0.01471145
+2-2905,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,1,0,0,42,0.891492,0.3912325,0.02004652,0.22521363,0.007363779
+2-2905,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.891492,0.3912325,0.02004652,0.22521363,0.007363779
+2-2905,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,1,0,0,42,0.891492,0.3912325,0.02004652,0.22521363,0.007363779
+2-294,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.23737994,0.78255326,0.39694393,0.05090222,0.0015774965
+2-294,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.15021913,0.12027028,0.8479104,0.06995221,0.004752648
+2-2954,10,Tionghoa,Buddha,no,no,F,20,Tangerang,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,1,0,0,1,0,42,0.84297204,0.81556517,0.021321481,0.5250754,0.0013352558
+2-2954,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.84297204,0.81556517,0.021321481,0.5250754,0.0013352558
+2-2954,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.8982337,0.17034961,0.08558275,0.76967776,0.002486977
+2-3391,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,0,42,0.8641251,0.113640584,0.0073345825,0.23193315,0.01791112
+2-3391,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8882925,0.34727207,0.0066773295,0.25364393,0.005360659
+2-3391,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.8641251,0.113640584,0.0073345825,0.23193315,0.01791112
+2-34,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.46932968,0.82350403,0.0041251923,0.34958524,0.021973468
+2-34,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.46932968,0.82350403,0.0041251923,0.34958524,0.021973468
+2-3442,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.6118019,0.050971523,0.16851982,0.85912585,0.0031262226
+2-3442,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.6118019,0.050971523,0.16851982,0.85912585,0.0031262226
+2-3566,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,0,0,42,0.8210103,0.61412144,0.24533936,0.28881377,0.0011195921
+2-3566,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.8210103,0.61412144,0.24533936,0.28881377,0.0011195921
+2-3566,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.8210103,0.61412144,0.24533936,0.28881377,0.0011195921
+2-3586,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.08861349,0.20224676,0.9129832,0.046052836,0.0020562774
+2-3586,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,1,0,0,42,0.08861349,0.20224676,0.9129832,0.046052836,0.0020562774
+2-3645,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.8598722,0.15869862,0.02497575,0.5270438,0.006187592
+2-3645,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.876091,0.65203595,0.013274301,0.526211,0.003247124
+2-3645,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.8598722,0.15869862,0.02497575,0.5270438,0.006187592
+2-3645,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.8598722,0.15869862,0.02497575,0.5270438,0.006187592
+2-3645,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.876091,0.65203595,0.013274301,0.526211,0.003247124
+2-3647,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.19005026,0.21597163,0.45723754,0.21733181,0.027983127
+2-3647,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.3200128,0.9012809,0.037545726,0.15503459,0.0071801376
+2-3647,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.19005026,0.21597163,0.45723754,0.21733181,0.027983127
+2-370,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.67234665,0.7673014,0.029436525,0.19341753,0.0010920173
+2-370,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.74957055,0.27023327,0.07314369,0.28246176,0.0017683787
+2-3722,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.9181986,0.12727371,0.025109146,0.21844245,0.0023373656
+2-3722,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.9114717,0.421466,0.01211571,0.19479474,0.0016795131
+2-3722,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.9181986,0.12727371,0.025109146,0.21844245,0.0023373656
+2-3753,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.15287128,0.06816722,0.87154335,0.049059495,0.009837778
+2-3753,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,1,1,0,0,42,0.15287128,0.06816722,0.87154335,0.049059495,0.009837778
+2-3757,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.84053934,0.057632394,0.018891621,0.17072617,0.0133474665
+2-3826,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.46415508,0.019189484,0.010080846,0.9044838,0.06777133
+2-3826,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.46415508,0.019189484,0.010080846,0.9044838,0.06777133
+2-383,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.7011076,0.09420121,0.06756116,0.90064406,0.02235522
+2-3831,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.20130417,0.64943635,0.74242926,0.42965376,0.00076125294
+2-3831,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,1,0,0,42,0.1708392,0.16483155,0.6906153,0.6998503,0.0018578687
+2-3831,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.1708392,0.16483155,0.6906153,0.6998503,0.0018578687
+2-3840,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.1194858,0.05180061,0.076192744,0.93720436,0.0066042864
+2-3840,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.16349134,0.142366,0.09316268,0.9242365,0.0029630796
+2-3840,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.1194858,0.05180061,0.076192744,0.93720436,0.0066042864
+2-3840,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.1194858,0.05180061,0.076192744,0.93720436,0.0066042864
+2-389,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.9033687,0.8185273,0.024504863,0.5227646,0.013460934
+2-3897,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.4108734,0.07998048,0.0040570404,0.71121275,0.30418974
+2-3897,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.4108734,0.07998048,0.0040570404,0.71121275,0.30418974
+2-3897,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.4108734,0.07998048,0.0040570404,0.71121275,0.30418974
+2-3929,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.31904855,0.9173866,0.100487,0.5605433,0.04884596
+2-3929,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,1,0,42,0.31904855,0.9173866,0.100487,0.5605433,0.04884596
+2-3969,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,1,1,0,0,42,0.38002905,0.17383178,0.38036916,0.042803496,0.075367354
+2-3969,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,1,0,0,42,0.38002905,0.17383178,0.38036916,0.042803496,0.075367354
+2-4005,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.7858874,0.45745876,0.024954155,0.97228664,0.069231465
+2-4005,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7803767,0.84125656,0.0095384605,0.9569649,0.030546676
+2-4005,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.7858874,0.45745876,0.024954155,0.97228664,0.069231465
+2-4005,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.7803767,0.84125656,0.0095384605,0.9569649,0.030546676
+2-4020,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.95085657,0.043154676,0.022895653,0.10717726,0.012364793
+2-4020,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.93822116,0.10821267,0.009111537,0.0768919,0.013174851
+2-4020,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.95085657,0.043154676,0.022895653,0.10717726,0.012364793
+2-4020,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.95085657,0.043154676,0.022895653,0.10717726,0.012364793
+2-4020,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.93822116,0.10821267,0.009111537,0.0768919,0.013174851
+2-4048,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.10369683,0.29141665,0.567522,0.039414153,0.0074884268
+2-4048,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.09535621,0.55693567,0.6431297,0.020559594,0.0024487297
+2-4099,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.74087757,0.053291872,0.28308496,0.9875907,0.019213302
+2-4099,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.7727371,0.17180993,0.25429085,0.9903171,0.01142341
+2-4099,29,Sasak,Islam,no,no,M,36,Mataram,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.74087757,0.053291872,0.28308496,0.9875907,0.019213302
+2-4099,25,Aceh,Islam,no,no,F,39,Banda Aceh,Doktor (S3),Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.74087757,0.053291872,0.28308496,0.9875907,0.019213302
+2-4187,3,Batak,Kepercayaan Lokal,no,no,F,29,Medan,Sarjana (S1),Bekerja,3,Luar Jabodetabek,0,0,0,1,0,42,0.29027885,0.03085083,0.005721082,0.9007314,0.12822534
+2-4187,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.43333727,0.05416575,0.0038653626,0.87973183,0.020849101
+2-4187,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.43333727,0.05416575,0.0038653626,0.87973183,0.020849101
+2-4227,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.15890689,0.5450473,0.33316758,0.047737844,0.003105781
+2-4227,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.15890689,0.5450473,0.33316758,0.047737844,0.003105781
+2-4227,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.20444725,0.13484794,0.76207775,0.12151818,0.010257656
+2-4239,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.52938795,0.9091713,0.022586089,0.17179368,0.005258884
+2-4239,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.52938795,0.9091713,0.022586089,0.17179368,0.005258884
+2-4239,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.52938795,0.9091713,0.022586089,0.17179368,0.005258884
+2-4243,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.19607875,0.7092857,0.14997667,0.083823256,0.009276345
+2-4301,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.93936557,0.052543923,0.034264646,0.09860606,0.0040673474
+2-4301,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.93936557,0.052543923,0.034264646,0.09860606,0.0040673474
+2-4301,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.93936557,0.052543923,0.034264646,0.09860606,0.0040673474
+2-4388,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.37548128,0.06373205,0.0060295947,0.66347677,0.043510057
+2-4392,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.42784587,0.4694676,0.12310851,0.1731443,0.0010338313
+2-4392,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.42784587,0.4694676,0.12310851,0.1731443,0.0010338313
+2-4392,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,1,0,42,0.42784587,0.4694676,0.12310851,0.1731443,0.0010338313
+2-449,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.5140608,0.43110925,0.3694318,0.21801166,0.0006105752
+2-449,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.2529186,0.072561614,0.67231,0.41358903,0.0023740942
+2-4585,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.33962917,0.8806134,0.029529871,0.13448516,0.010840517
+2-4585,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.33962917,0.8806134,0.029529871,0.13448516,0.010840517
+2-4585,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.33962917,0.8806134,0.029529871,0.13448516,0.010840517
+2-4618,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.48065576,0.33410725,0.005081741,0.92911184,0.05071209
+2-4631,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.81014985,0.8236496,0.0047221757,0.10416838,0.017696477
+2-4631,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.81014985,0.8236496,0.0047221757,0.10416838,0.017696477
+2-466,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.6570239,0.8066289,0.23831835,0.7191437,0.004723544
+2-4678,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.39900613,0.73945254,0.075524084,0.16318345,0.0013482608
+2-4678,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.39900613,0.73945254,0.075524084,0.16318345,0.0013482608
+2-4728,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.36404413,0.86911875,0.12663203,0.05334781,0.0012293326
+2-4728,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.36404413,0.86911875,0.12663203,0.05334781,0.0012293326
+2-4756,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.6015065,0.65614164,0.1319836,0.07384892,0.0013119358
+2-4756,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6015065,0.65614164,0.1319836,0.07384892,0.0013119358
+2-4756,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,1,0,42,0.5242691,0.0770817,0.38901898,0.08105818,0.0075577237
+2-4767,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.52459604,0.92854494,0.060052376,0.14461102,0.0031804906
+2-4767,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.52459604,0.92854494,0.060052376,0.14461102,0.0031804906
+2-480,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.73519605,0.21061048,0.015609468,0.17879313,0.037572123
+2-480,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.73519605,0.21061048,0.015609468,0.17879313,0.037572123
+2-4928,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.07599025,0.20137297,0.89326245,0.07164132,0.003344639
+2-4928,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,1,0,0,42,0.07599025,0.20137297,0.89326245,0.07164132,0.003344639
+2-4951,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.17774315,0.8396535,0.22116384,0.027992973,0.008925457
+2-497,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.33280665,0.7917609,0.046998665,0.027481226,0.036204863
+2-4986,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.64797723,0.9254501,0.05145436,0.03865133,0.63007814
+2-4986,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.64797723,0.9254501,0.05145436,0.03865133,0.63007814
+2-5027,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.40096894,0.7912236,0.24364762,0.3076466,0.0107627865
+2-5027,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.40096894,0.7912236,0.24364762,0.3076466,0.0107627865
+2-504,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.41200718,0.09060659,0.0023862182,0.93064606,0.12159165
+2-506,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.6167704,0.2751593,0.21487764,0.09082554,0.0012692864
+2-5125,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.7471906,0.36937818,0.08053716,0.8708566,0.00092577375
+2-5125,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.7471906,0.36937818,0.08053716,0.8708566,0.00092577375
+2-514,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9249968,0.08093999,0.014113387,0.26315612,0.005359662
+2-515,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.32241744,0.41525352,0.24629347,0.02060804,0.0015097895
+2-515,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.23438764,0.053452875,0.64543045,0.042838685,0.00763169
+2-5235,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.29660988,0.748076,0.20805459,0.08563746,0.013661409
+2-5235,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.29660988,0.748076,0.20805459,0.08563746,0.013661409
+2-5289,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4061767,0.90646935,0.0110211,0.1135638,0.0049360762
+2-5289,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4061767,0.90646935,0.0110211,0.1135638,0.0049360762
+2-530,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.1838466,0.8656164,0.06243471,0.14925063,0.0105518885
+2-532,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,0,0,42,0.9154214,0.09134646,0.049348656,0.26826677,0.0013484489
+2-5331,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.87734926,0.72757375,0.084352404,0.7677462,0.0032405758
+2-5331,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.87734926,0.72757375,0.084352404,0.7677462,0.0032405758
+2-5579,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.910716,0.14609823,0.008827474,0.2634919,0.003921497
+2-5579,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.910716,0.14609823,0.008827474,0.2634919,0.003921497
+2-560,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.7379311,0.48843333,0.087951384,0.8850626,0.0041783713
+2-560,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.6819848,0.026452355,0.46311283,0.8825906,0.034797497
+2-5708,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.14841707,0.5732884,0.5233221,0.058739357,0.00043103425
+2-5708,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.14841707,0.5732884,0.5233221,0.058739357,0.00043103425
+2-5708,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.14841707,0.5732884,0.5233221,0.058739357,0.00043103425
+2-5770,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.6363424,0.9782718,0.07126436,0.08249655,0.012731
+2-5770,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6363424,0.9782718,0.07126436,0.08249655,0.012731
+2-5770,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.6363424,0.9782718,0.07126436,0.08249655,0.012731
+2-5845,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.55828667,0.8054602,0.043143034,0.34044918,0.0007910271
+2-5845,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.55828667,0.8054602,0.043143034,0.34044918,0.0007910271
+2-5888,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.87228286,0.5401323,0.027171494,0.16267158,0.005514679
+2-5888,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.87228286,0.5401323,0.027171494,0.16267158,0.005514679
+2-5888,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.87228286,0.5401323,0.027171494,0.16267158,0.005514679
+2-589,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.65526533,0.5802295,0.007939282,0.09830982,0.014145444
+2-6166,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.4054319,0.091950454,0.03518785,0.4218812,0.0018587991
+2-6166,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.48187166,0.33109623,0.017284254,0.41227835,0.001195072
+2-6180,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.65851986,0.17607309,0.013729252,0.21118398,0.005369542
+2-6180,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.65851986,0.17607309,0.013729252,0.21118398,0.005369542
+2-6227,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.6884869,0.19721927,0.0067733815,0.697091,0.28267202
+2-6227,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.72890466,0.45907372,0.0042300546,0.80036867,0.053660728
+2-6227,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.72890466,0.45907372,0.0042300546,0.80036867,0.053660728
+2-6528,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9387129,0.7416908,0.12711932,0.82590014,0.003332004
+2-6528,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.9387129,0.7416908,0.12711932,0.82590014,0.003332004
+2-6534,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.65833783,0.09182285,0.013532282,0.1972241,0.009029375
+2-6534,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.65833783,0.09182285,0.013532282,0.1972241,0.009029375
+2-660,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.45453042,0.8515715,0.040076967,0.017966377,0.009431499
+2-6679,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.09457737,0.09936195,0.0077419095,0.4840189,0.11702141
+2-6679,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,1,0,42,0.09457737,0.09936195,0.0077419095,0.4840189,0.11702141
+2-6732,7,Minang,Islam,yes,no,F,27,Padang,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8365846,0.021642067,0.6182195,0.7286914,0.0039424957
+2-6732,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.8546496,0.11138952,0.48057425,0.6693607,0.0016776018
+2-6732,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.8546496,0.11138952,0.48057425,0.6693607,0.0016776018
+2-7,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.39936265,0.65850663,0.04780449,0.05954297,0.002521765
+2-7406,15,Tionghoa,Katolik,yes,no,F,21,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,3,Jabodetabek,0,0,1,0,0,42,0.16664134,0.29979587,0.41660458,0.028368423,0.0108535215
+2-7406,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.16664134,0.29979587,0.41660458,0.028368423,0.0108535215
+2-75,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.12239352,0.15836518,0.8159469,0.24216503,0.0008979003
+2-75,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.101768084,0.03821699,0.85948044,0.3900923,0.0027638578
+2-7561,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,0,0,0,1,0,42,0.055389572,0.09400155,0.0052716136,0.5719889,0.6600527
+2-7561,27,Aceh,Islam,no,no,M,59,Banda Aceh,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.055389572,0.09400155,0.0052716136,0.5719889,0.6600527
+2-7605,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.78363794,0.8926615,0.012069071,0.32365748,0.0035133595
+2-7605,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.8627997,0.51251566,0.023544041,0.33104372,0.009415645
+2-7610,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.90538937,0.0383217,0.07023855,0.19577225,0.017514078
+2-7610,27,Aceh,Islam,no,no,M,59,Banda Aceh,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.90538937,0.0383217,0.07023855,0.19577225,0.017514078
+2-7659,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.36904725,0.8672946,0.039808404,0.054770444,0.006048033
+2-7659,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.28272176,0.449853,0.29369667,0.06645314,0.012503103
+2-7684,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,0,1,0,1,1,42,0.41506803,0.86923474,0.30044442,0.26730025,0.006432255
+2-7684,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,1,42,0.41506803,0.86923474,0.30044442,0.26730025,0.006432255
+2-7684,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,1,1,42,0.37683353,0.55955887,0.25716963,0.7451904,0.12750809
+2-7692,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.5827318,0.9179595,0.02082567,0.25298166,0.0030173743
+2-7692,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.5827318,0.9179595,0.02082567,0.25298166,0.0030173743
+2-7692,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,1,0,42,0.5827318,0.9179595,0.02082567,0.25298166,0.0030173743
+2-7697,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.8775584,0.028737286,0.020388812,0.1537096,0.024821257
+2-7697,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.8775584,0.028737286,0.020388812,0.1537096,0.024821257
+2-7697,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.87377936,0.011496856,0.035235845,0.15616508,0.042156395
+2-7697,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.8775584,0.028737286,0.020388812,0.1537096,0.024821257
+2-772,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8840701,0.16806716,0.11915165,0.1313946,0.0022424092
+2-7793,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.9355779,0.5952604,0.01762937,0.92050993,0.012922716
+2-7793,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,1,0,42,0.93098557,0.14870526,0.051621776,0.924423,0.016511815
+2-7813,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.48604783,0.19859625,0.026018288,0.9823095,0.012918527
+2-7813,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,1,0,42,0.35454822,0.043431092,0.032183394,0.97380686,0.040962316
+2-784,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.07382876,0.29533863,0.8977813,0.029801523,0.0035420994
+2-784,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.07382876,0.29533863,0.8977813,0.029801523,0.0035420994
+2-784,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.06827409,0.06323964,0.9048817,0.15038611,0.014427789
+2-7896,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9173805,0.071616724,0.028196074,0.086387716,0.005212742
+2-7896,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9173805,0.071616724,0.028196074,0.086387716,0.005212742
+2-7896,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.9334645,0.029920606,0.050913185,0.09787304,0.011245759
+2-8305,11,Bugis,Islam,no,yes,M,25,Jakarta,Sarjana (S1),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.40786427,0.8825851,0.04034541,0.02013717,0.007093345
+2-8305,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.40786427,0.8825851,0.04034541,0.02013717,0.007093345
+2-8305,28,Bali,Hindu,no,no,M,40,Mataram,Sekolah Menengah Atas (SMA),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.39859813,0.33415818,0.19230454,0.0141905,0.006588317
+2-8416,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,0,0,42,0.72530025,0.28936952,0.7629982,0.10939869,0.0019463504
+2-8416,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.78956985,0.9170914,0.16273813,0.16687359,0.0018954392
+2-8416,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.72530025,0.28936952,0.7629982,0.10939869,0.0019463504
+2-8436,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,1,0,42,0.36552435,0.06405387,0.5450427,0.19608279,0.0052928217
+2-8436,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.44034192,0.7590202,0.1438446,0.16566743,0.00080132805
+2-8436,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.36552435,0.06405387,0.5450427,0.19608279,0.0052928217
+2-8436,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.44034192,0.7590202,0.1438446,0.16566743,0.00080132805
+2-8437,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,0,0,1,0,42,0.92311174,0.033389416,0.030990131,0.5225363,0.017468639
+2-8437,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.92311174,0.033389416,0.030990131,0.5225363,0.017468639
+2-8536,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,1,0,1,0,42,0.8346443,0.19437508,0.19117408,0.9864478,0.013452597
+2-8536,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.84424734,0.7435409,0.058994938,0.98687625,0.017020186
+2-8536,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.8346443,0.19437508,0.19117408,0.9864478,0.013452597
+2-8536,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,1,0,42,0.84424734,0.7435409,0.058994938,0.98687625,0.017020186
+2-859,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,0,0,1,1,42,0.047426187,0.18003935,0.0059515173,0.32238075,0.9408582
+2-859,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,0,0,1,1,42,0.075924344,0.05680985,0.010095466,0.73506254,0.97289485
+2-8594,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,0,1,0,42,0.45519736,0.118681036,0.00955944,0.9709291,0.07277224
+2-8594,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.45519736,0.118681036,0.00955944,0.9709291,0.07277224
+2-871,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,0,0,42,0.1981491,0.8885106,0.08632264,0.09718437,0.026714476
+2-871,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.1981491,0.8885106,0.08632264,0.09718437,0.026714476
+2-871,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.19311453,0.477247,0.57539093,0.156057,0.084810175
+2-871,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.19311453,0.477247,0.57539093,0.156057,0.084810175
+2-871,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.19311453,0.477247,0.57539093,0.156057,0.084810175
+2-8787,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,0,1,0,42,0.19312297,0.014898397,0.014303446,0.91719484,0.036391173
+2-8787,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.20820625,0.050706796,0.0096072145,0.9123958,0.013179693
+2-8787,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,1,0,42,0.20820625,0.050706796,0.0096072145,0.9123958,0.013179693
+2-9041,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,1,0,0,0,0,42,0.48846927,0.48686156,0.013625518,0.47895163,0.013501261
+2-9041,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.52557766,0.89623266,0.009719573,0.34056166,0.007059834
+2-9041,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.48846927,0.48686156,0.013625518,0.47895163,0.013501261
+2-907,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.12852946,0.78362054,0.18234189,0.03286485,0.01989202
+2-907,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.07763509,0.15627734,0.66767406,0.036783,0.04216737
+2-9116,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,0,1,0,42,0.23632841,0.05394378,0.004557295,0.8510585,0.22568417
+2-9116,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.41253608,0.106115684,0.0017401957,0.7289357,0.17447671
+2-9116,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.41253608,0.106115684,0.0017401957,0.7289357,0.17447671
+2-9188,12,Melayu,Islam,no,no,F,34,Riau,Sarjana (S1),Ibu Rumah Tangga,1,Luar Jabodetabek,0,0,1,0,0,42,0.65235144,0.12790456,0.10858511,0.52329177,0.016809886
+2-9188,24,Bugis,Islam,no,no,F,32,Padang,Magister (S2),Bekerja,1,Luar Jabodetabek,0,1,0,0,0,42,0.65235144,0.12790456,0.10858511,0.52329177,0.016809886
+2-9262,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.69412,0.18759206,0.012812014,0.053212665,0.00595651
+2-9265,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.58537203,0.5417182,0.005557852,0.19974884,0.06477151
+2-9432,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9183102,0.029334653,0.15562147,0.12313648,0.0043108054
+2-9463,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.21347496,0.72190183,0.20970249,0.086879335,0.0015703294
+2-9531,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5394512,0.29685473,0.20800444,0.12531601,0.0014970226
+2-9544,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.7144116,0.17147996,0.3307251,0.049841333,0.007424482
+2-9562,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.49271402,0.87390155,0.01895091,0.16944334,0.0062060636
+2-9734,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.49928102,0.9525393,0.09540369,0.039218746,0.0029107125
+2-9771,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.59193707,0.93261117,0.010882878,0.07682965,0.007795725
+2-981,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,0,0,0,1,42,0.29074705,0.3777847,0.0069500054,0.03595033,0.8788838
+2-981,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,1,42,0.170799,0.21263148,0.00894609,0.07005912,0.98272943
+2-983,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.13921107,0.64362997,0.3625651,0.043153554,0.001210597
+2-983,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.13921107,0.64362997,0.3625651,0.043153554,0.001210597
+2-983,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,1,0,0,42,0.13921107,0.64362997,0.3625651,0.043153554,0.001210597
+2-986,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.8173971,0.28014883,0.030665468,0.058838647,0.0032468815
+2-986,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.80209315,0.05792613,0.063946165,0.053772632,0.009043544
+2-986,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.80209315,0.05792613,0.063946165,0.053772632,0.009043544
+2-9908,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.2920153,0.48693848,0.0036477835,0.27462125,0.64067036
+2-9916,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.58757097,0.89406806,0.011196587,0.18881282,0.049558792
+2-9958,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7842734,0.92404866,0.008143102,0.17678261,0.026840784
+3-1004,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.21954316,0.38096803,0.52256346,0.071128465,0.0033110376
+3-1004,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.21954316,0.38096803,0.52256346,0.071128465,0.0033110376
+3-1004,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,1,0,0,42,0.21954316,0.38096803,0.52256346,0.071128465,0.0033110376
+3-1020,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.1484103,0.87984025,0.042537738,0.09070504,0.018971095
+3-1057,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.90066874,0.032043763,0.03388836,0.09391117,0.011290256
+3-1057,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.896905,0.014943688,0.09803315,0.122207485,0.028548645
+3-1073,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.83830565,0.6158373,0.027601404,0.539036,0.01260395
+3-1110,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.39588183,0.9106132,0.00641924,0.16731593,0.70129013
+3-1113,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.20122114,0.655321,0.22610393,0.2068051,0.0044241087
+3-1115,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.52347976,0.66760916,0.5761417,0.42636997,0.0006641387
+3-1115,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,1,0,42,0.48345336,0.14944932,0.6210807,0.5968332,0.001663499
+3-1119,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.66342443,0.6843931,0.024839684,0.9840509,0.051335987
+3-1119,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,1,0,42,0.66342443,0.6843931,0.024839684,0.9840509,0.051335987
+3-1124,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,1,0,0,42,0.5040066,0.775515,0.024629395,0.030343045,0.004324031
+3-115,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.71013767,0.7162378,0.14285696,0.0619955,0.0017779716
+3-1165,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.81688464,0.8305545,0.010051956,0.24543871,0.003355824
+3-1165,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.81688464,0.8305545,0.010051956,0.24543871,0.003355824
+3-1165,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.8975819,0.4537045,0.043374177,0.18972309,0.0061604558
+3-1177,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.29794338,0.927145,0.052935064,0.02698049,0.0046988074
+3-1177,31,Tobelo,Islam,no,no,M,36,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.26627493,0.4806026,0.20541222,0.022215674,0.005423429
+3-1189,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.25485677,0.5070049,0.29668504,0.05971324,0.0014089798
+3-1189,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.21821502,0.06937769,0.667011,0.08358873,0.0050074044
+3-1208,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.89751494,0.17048486,0.009297258,0.30367717,0.02418427
+3-1208,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.8660983,0.040969603,0.01630179,0.3520632,0.07069224
+3-1231,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.3827602,0.7587727,0.0920637,0.55160356,0.0011271884
+3-1263,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.23671864,0.80796,0.30998343,0.28397802,0.022155656
+3-1263,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.22717215,0.38763967,0.5564693,0.5792352,0.1527173
+3-1302,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.85251933,0.12261629,0.057300426,0.050372563,0.0064671994
+3-1415,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.49143595,0.9537682,0.02775462,0.04883454,0.0067985742
+3-1415,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.58193856,0.68829256,0.10278593,0.055399895,0.0036991623
+3-1434,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.18189022,0.6269847,0.4753026,0.036431137,0.0051190522
+3-1452,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.39671168,0.8781811,0.034976695,0.037682384,0.028439747
+3-1465,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.76368946,0.16883576,0.12448201,0.053090766,0.003528337
+3-1474,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.07551547,0.46550274,0.30446753,0.048556354,0.0035028276
+3-1519,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.93381464,0.31181127,0.012956019,0.27190652,0.014938066
+3-1519,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.94114757,0.10335845,0.015393891,0.3746031,0.065140285
+3-1532,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.15581211,0.9263849,0.09909739,0.046473444,0.007149488
+3-1532,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.15581211,0.9263849,0.09909739,0.046473444,0.007149488
+3-1532,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.15581211,0.9263849,0.09909739,0.046473444,0.007149488
+3-1571,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.2739845,0.62051606,0.09667451,0.1944751,0.014304566
+3-1571,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.2739845,0.62051606,0.09667451,0.1944751,0.014304566
+3-1571,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.2739845,0.62051606,0.09667451,0.1944751,0.014304566
+3-1592,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.944974,0.069149524,0.056946628,0.50316036,0.004618139
+3-1630,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.5592724,0.77116346,0.02529009,0.08334033,0.017040158
+3-1634,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.56345314,0.37177324,0.0037277674,0.41570044,0.07552863
+3-1635,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8257948,0.33700448,0.056117926,0.08049013,0.0021544984
+3-1666,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.19424038,0.7396751,0.14387801,0.103617474,0.016369293
+3-1679,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6011717,0.1223528,0.013783038,0.18564558,0.029300999
+3-1686,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8495079,0.11883524,0.571014,0.1319773,0.0011941082
+3-1693,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5370909,0.9218983,0.18519935,0.08202452,0.0015186629
+3-1693,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5370909,0.9218983,0.18519935,0.08202452,0.0015186629
+3-170,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8755482,0.33094266,0.0093522845,0.17905532,0.0017979309
+3-170,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.8755482,0.33094266,0.0093522845,0.17905532,0.0017979309
+3-1742,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.72839504,0.9711992,0.17584674,0.06613369,0.008125631
+3-1745,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.25802767,0.90970075,0.1041727,0.015059579,0.004665712
+3-1745,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.18698037,0.428513,0.3522729,0.011245218,0.0055841394
+3-1801,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4966884,0.53333473,0.014358332,0.24087183,0.0030820316
+3-1819,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.88665533,0.034462053,0.14001213,0.41948387,0.0062092463
+3-1819,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.88665533,0.034462053,0.14001213,0.41948387,0.0062092463
+3-1874,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.35979503,0.8779481,0.029459959,0.47694674,0.030055044
+3-1874,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.35979503,0.8779481,0.029459959,0.47694674,0.030055044
+3-1896,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.57340103,0.91818553,0.015838018,0.22429875,0.009675871
+3-1901,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.76397115,0.7187072,0.08033475,0.41351637,0.003479252
+3-1937,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.82497174,0.91962713,0.022388892,0.088286296,0.0068320455
+3-1993,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.17549536,0.58548796,0.52641714,0.013348421,0.0070581688
+3-1993,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.17549536,0.58548796,0.52641714,0.013348421,0.0070581688
+3-1993,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.17549536,0.58548796,0.52641714,0.013348421,0.0070581688
+3-1996,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9393881,0.37249276,0.012325878,0.34288332,0.0030758877
+3-1996,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9393881,0.37249276,0.012325878,0.34288332,0.0030758877
+3-1996,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,0,0,0,42,0.95792484,0.1720898,0.0122243995,0.38458517,0.007637596
+3-2032,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.10392274,0.2888186,0.16483578,0.36527497,0.67352575
+3-2032,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.13847843,0.0918385,0.14212282,0.3214715,0.9270602
+3-2105,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.9386903,0.058276016,0.012362644,0.22965987,0.014769247
+3-2105,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.94607866,0.02118724,0.02819171,0.22847158,0.040070012
+3-2105,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.94607866,0.02118724,0.02819171,0.22847158,0.040070012
+3-2117,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.5804887,0.7166852,0.015368473,0.12828985,0.20159061
+3-2117,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.61920065,0.2765917,0.03278728,0.18619825,0.45911512
+3-2139,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.4598169,0.9307211,0.060607113,0.17691533,0.0036990512
+3-2139,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,1,42,0.47332156,0.16006705,0.64455867,0.13971779,0.01037927
+3-2139,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,1,42,0.47332156,0.16006705,0.64455867,0.13971779,0.01037927
+3-2142,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,1,0,42,0.88179004,0.7884185,0.20640996,0.20018673,0.00071199256
+3-2142,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.88179004,0.7884185,0.20640996,0.20018673,0.00071199256
+3-2164,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.92827845,0.059439007,0.026686272,0.09223555,0.0076056207
+3-2164,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.93096715,0.025286699,0.041695837,0.078865096,0.02297668
+3-2164,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.93096715,0.025286699,0.041695837,0.078865096,0.02297668
+3-2169,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.70469946,0.7281065,0.05294606,0.073504254,0.0016460433
+3-2169,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.7609312,0.26588246,0.12951893,0.105405435,0.0021709693
+3-2169,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.7609312,0.26588246,0.12951893,0.105405435,0.0021709693
+3-2249,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.23732604,0.837725,0.03966411,0.26674694,0.015434744
+3-2249,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.23732604,0.837725,0.03966411,0.26674694,0.015434744
+3-2249,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.23732604,0.837725,0.03966411,0.26674694,0.015434744
+3-2430,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.18312837,0.056527294,0.9381374,0.08605782,0.015999092
+3-2430,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.18312837,0.056527294,0.9381374,0.08605782,0.015999092
+3-2450,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.90552384,0.09476823,0.0389075,0.4457548,0.022878133
+3-2450,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.90552384,0.09476823,0.0389075,0.4457548,0.022878133
+3-2461,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,1,42,0.06079821,0.12273073,0.006427466,0.10293636,0.9848496
+3-2461,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,1,42,0.06079821,0.12273073,0.006427466,0.10293636,0.9848496
+3-2490,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,1,0,42,0.7646929,0.8721643,0.013752154,0.929158,0.014151043
+3-2490,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.801421,0.24553469,0.035366848,0.962992,0.028323878
+3-2490,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.801421,0.24553469,0.035366848,0.962992,0.028323878
+3-2493,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.27165985,0.25315285,0.3024746,0.045716196,0.003417849
+3-2493,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.27165985,0.25315285,0.3024746,0.045716196,0.003417849
+3-2695,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.85134906,0.34333405,0.018124111,0.72431034,0.0014968878
+3-2695,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.8685753,0.044672567,0.027269525,0.7080876,0.0040508024
+3-2695,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.8685753,0.044672567,0.027269525,0.7080876,0.0040508024
+3-2766,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.44957936,0.7409506,0.15152074,0.06006984,0.0068443744
+3-2766,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.44942203,0.39438203,0.3169033,0.044535395,0.016773328
+3-2781,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.29045764,0.3685034,0.27963933,0.14587438,0.05653491
+3-2781,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.29045764,0.3685034,0.27963933,0.14587438,0.05653491
+3-2813,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,1,1,42,0.22124879,0.092797354,0.06384631,0.94054836,0.23896445
+3-2813,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,0,0,1,1,42,0.22124879,0.092797354,0.06384631,0.94054836,0.23896445
+3-2874,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,0,0,1,1,42,0.7765162,0.89325875,0.006693386,0.14772461,0.045343023
+3-2874,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,1,0,42,0.71768177,0.6806889,0.01795821,0.093290195,0.08770599
+3-2874,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.71768177,0.6806889,0.01795821,0.093290195,0.08770599
+3-2875,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.5151095,0.34018737,0.0062175645,0.8823853,0.04566073
+3-2875,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,1,0,42,0.45535684,0.08128708,0.010695177,0.9014478,0.19643381
+3-2875,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.45535684,0.08128708,0.010695177,0.9014478,0.19643381
+3-2891,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.4078485,0.91915655,0.8196171,0.04619254,0.0070422
+3-2891,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.26073667,0.45495275,0.9437726,0.06163654,0.0138336085
+3-2914,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.2571346,0.3246371,0.1935196,0.11479524,0.0134627335
+3-2914,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.2571346,0.3246371,0.1935196,0.11479524,0.0134627335
+3-2938,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.73985684,0.33218324,0.50147337,0.9455254,0.006811982
+3-2938,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.73122007,0.03421676,0.8061409,0.94522446,0.054966595
+3-2938,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.73122007,0.03421676,0.8061409,0.94522446,0.054966595
+3-2945,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.280023,0.035500143,0.0021988659,0.8542484,0.14347954
+3-2945,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.280023,0.035500143,0.0021988659,0.8542484,0.14347954
+3-2958,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,1,0,42,0.48469323,0.8123607,0.20439798,0.21527949,0.0014193165
+3-2958,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.38237908,0.15033446,0.7498895,0.22453356,0.0040270616
+3-2958,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.38237908,0.15033446,0.7498895,0.22453356,0.0040270616
+3-2967,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.9264698,0.22492306,0.04835934,0.08614046,0.0025788478
+3-2967,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.9264698,0.22492306,0.04835934,0.08614046,0.0025788478
+3-2967,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,0,0,42,0.93111056,0.07428488,0.11963025,0.10026789,0.0046773273
+3-2967,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,0,0,42,0.93111056,0.07428488,0.11963025,0.10026789,0.0046773273
+3-2992,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.07055745,0.5090142,0.66044754,0.022461927,0.0077953045
+3-2992,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.06666896,0.07960084,0.9092772,0.0443802,0.018421091
+3-2992,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.06666896,0.07960084,0.9092772,0.0443802,0.018421091
+3-2996,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.22227496,0.57753587,0.61929303,0.01880873,0.0015112639
+3-2996,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,0,1,0,0,42,0.17173181,0.101075605,0.868291,0.033702217,0.0038940015
+3-301,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6048853,0.89152884,0.015410387,0.302948,0.0077690897
+3-40,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.3659391,0.9273968,0.09243945,0.2129566,0.009113486
+3-40,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.3659391,0.9273968,0.09243945,0.2129566,0.009113486
+3-464,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.54263604,0.9075396,0.08201561,0.2927547,0.02332568
+3-464,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.54263604,0.9075396,0.08201561,0.2927547,0.02332568
+3-482,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.36729002,0.90782183,0.047553197,0.09379871,0.008427377
+3-531,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.6008664,0.71215266,0.041189898,0.89443326,0.008064425
+3-532,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.9136525,0.108874954,0.11238771,0.3378066,0.0034462838
+3-532,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.9136525,0.108874954,0.11238771,0.3378066,0.0034462838
+3-532,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.9136525,0.108874954,0.11238771,0.3378066,0.0034462838
+3-534,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.30881637,0.7777196,0.19238612,0.023278784,0.0035900187
+3-534,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.30881637,0.7777196,0.19238612,0.023278784,0.0035900187
+3-534,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.30881637,0.7777196,0.19238612,0.023278784,0.0035900187
+3-604,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.51926726,0.052211396,0.0035214284,0.6986425,0.011231135
+3-604,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.51926726,0.052211396,0.0035214284,0.6986425,0.011231135
+3-869,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.25680214,0.81415606,0.2242383,0.055185337,0.0030892603
+3-869,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.25680214,0.81415606,0.2242383,0.055185337,0.0030892603
+3-869,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.25680214,0.81415606,0.2242383,0.055185337,0.0030892603
+3-94,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.831092,0.786922,0.020977762,0.6996688,0.0038310983
+3-955,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.76540756,0.8822425,0.0510151,0.2582708,0.0020652274
+3-955,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.76540756,0.8822425,0.0510151,0.2582708,0.0020652274
+3-976,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.25257477,0.6731138,0.23271663,0.09293693,0.011423001
+3-976,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.25257477,0.6731138,0.23271663,0.09293693,0.011423001
+4-100,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.25228095,0.81314826,0.3035697,0.014623432,0.0026295974
+4-100,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.25228095,0.81314826,0.3035697,0.014623432,0.0026295974
+4-1029,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.6236623,0.59239155,0.11344139,0.015822364,0.051294513
+4-1029,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.6236623,0.59239155,0.11344139,0.015822364,0.051294513
+4-1130,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,0,0,42,0.27045673,0.88183147,0.54193056,0.05487256,0.0060662935
+4-1130,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,1,0,0,0,42,0.44918197,0.19691269,0.7021516,0.08189835,0.012394906
+4-1130,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.44918197,0.19691269,0.7021516,0.08189835,0.012394906
+4-1151,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.4847038,0.68594885,0.049640417,0.027762022,0.05340596
+4-1151,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.4847038,0.68594885,0.049640417,0.027762022,0.05340596
+4-123,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6791398,0.82803434,0.017534398,0.03765727,0.011329526
+4-123,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.6791398,0.82803434,0.017534398,0.03765727,0.011329526
+4-1243,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.30001745,0.25004366,0.7164063,0.11254076,0.051515203
+4-1243,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.30001745,0.25004366,0.7164063,0.11254076,0.051515203
+4-1272,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,1,0,42,0.4780859,0.9336513,0.12222459,0.07297843,0.0023773182
+4-1272,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.4780859,0.9336513,0.12222459,0.07297843,0.0023773182
+4-1272,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,1,0,1,0,42,0.64838225,0.32323977,0.38311276,0.076115705,0.004793081
+4-1272,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,1,0,42,0.64838225,0.32323977,0.38311276,0.076115705,0.004793081
+4-1326,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.23720448,0.07195234,0.80429363,0.17470859,0.011979851
+4-1326,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.23720448,0.07195234,0.80429363,0.17470859,0.011979851
+4-1332,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.599957,0.91010255,0.08775711,0.20555715,0.0025526006
+4-1332,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.599957,0.91010255,0.08775711,0.20555715,0.0025526006
+4-1332,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.599957,0.91010255,0.08775711,0.20555715,0.0025526006
+4-1351,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.5018181,0.87764335,0.30598733,0.028356059,0.008122758
+4-1417,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.50560236,0.6376403,0.05730393,0.2079535,0.0005367072
+4-1417,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.50560236,0.6376403,0.05730393,0.2079535,0.0005367072
+4-1417,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.5963094,0.1500058,0.15988547,0.2627267,0.00079852185
+4-1417,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.5963094,0.1500058,0.15988547,0.2627267,0.00079852185
+4-1417,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.50560236,0.6376403,0.05730393,0.2079535,0.0005367072
+4-1444,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,1,0,42,0.6947596,0.6100053,0.05870027,0.0767424,0.0012751227
+4-1444,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.6093868,0.15102772,0.24519502,0.14676253,0.009463043
+4-1444,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.6093868,0.15102772,0.24519502,0.14676253,0.009463043
+4-1444,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.6947596,0.6100053,0.05870027,0.0767424,0.0012751227
+4-155,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.5946936,0.90847135,0.034746494,0.09960309,0.002710365
+4-1581,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.23643628,0.37756965,0.48760545,0.022477759,0.018373642
+4-1581,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.23643628,0.37756965,0.48760545,0.022477759,0.018373642
+4-1657,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,1,0,0,0,42,0.49175987,0.69914937,0.028477333,0.056461014,0.033752855
+4-1657,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.49175987,0.69914937,0.028477333,0.056461014,0.033752855
+4-1747,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.22135758,0.7481302,0.21621503,0.06187168,0.0010550804
+4-1747,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.22135758,0.7481302,0.21621503,0.06187168,0.0010550804
+4-1747,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,0,0,1,0,42,0.23295932,0.51660776,0.18704697,0.52771497,0.0039808745
+4-1747,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,0,0,1,0,42,0.23295932,0.51660776,0.18704697,0.52771497,0.0039808745
+4-1776,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,0,0,0,0,42,0.35183388,0.6453687,0.112095565,0.16341807,0.0069526886
+4-1776,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.35183388,0.6453687,0.112095565,0.16341807,0.0069526886
+4-1776,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.33182693,0.12739967,0.41748744,0.12456118,0.018309686
+4-1776,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.33182693,0.12739967,0.41748744,0.12456118,0.018309686
+4-1776,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.35183388,0.6453687,0.112095565,0.16341807,0.0069526886
+4-1810,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,1,1,0,0,0,42,0.46593246,0.8434975,0.020442905,0.07051027,0.007398362
+4-1841,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.3610171,0.7218153,0.01602908,0.096158445,0.019736126
+4-1841,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.3610171,0.7218153,0.01602908,0.096158445,0.019736126
+4-1841,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.3610171,0.7218153,0.01602908,0.096158445,0.019736126
+4-1856,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,1,0,42,0.27773649,0.43840876,0.15986532,0.09792549,0.016773384
+4-1856,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.22906783,0.051127616,0.46104282,0.11357387,0.09514713
+4-1865,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,1,0,42,0.7091764,0.4959837,0.5000161,0.9302025,0.009991967
+4-1865,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.7091764,0.4959837,0.5000161,0.9302025,0.009991967
+4-1865,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,1,0,42,0.64188236,0.10030806,0.5563896,0.95335525,0.026914315
+4-1939,21,Sunda,Islam,no,no,F,39,Bogor,Sarjana (S1),Bekerja,1,Jabodetabek,0,1,0,0,0,42,0.7667107,0.34207752,0.098789036,0.29443544,0.0009862732
+4-1939,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7667107,0.34207752,0.098789036,0.29443544,0.0009862732
+4-1939,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,1,1,0,0,0,42,0.7609949,0.055572156,0.15308733,0.41940737,0.00351613
+4-1939,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,1,1,0,0,0,42,0.7609949,0.055572156,0.15308733,0.41940737,0.00351613
+4-1991,26,Sunda,Islam,no,no,M,27,Bandung,Magister (S2),Bekerja,2,Luar Jabodetabek,0,1,0,0,0,42,0.3286942,0.4249897,0.09792736,0.07836344,0.009846383
+4-1991,22,Sunda,Islam,no,no,F,41,Sumedang,Sarjana (S1),Tidak Bekerja,3,Luar Jabodetabek,0,1,0,0,0,42,0.3286942,0.4249897,0.09792736,0.07836344,0.009846383
+4-2006,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.4901637,0.76453495,0.00907471,0.070376284,0.011946726
+4-2016,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,1,0,0,42,0.86050916,0.5811078,0.007753684,0.9268624,0.011916353
+4-2016,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.86050916,0.5811078,0.007753684,0.9268624,0.011916353
+4-2016,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,0,0,42,0.7129959,0.16012743,0.02568093,0.9680209,0.029463055
+4-2050,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,0,0,42,0.75621057,0.76034814,0.0045451517,0.8623496,0.021086289
+4-2067,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.34392163,0.81955093,0.030658461,0.1914128,0.022121591
+4-2067,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,1,42,0.38846093,0.33434665,0.10183661,0.26854953,0.073369436
+4-2078,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.07450364,0.8952522,0.86632967,0.021742051,0.07406243
+4-2078,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,0,1,1,0,0,42,0.07450364,0.8952522,0.86632967,0.021742051,0.07406243
+4-2078,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,1,1,0,0,42,0.07470767,0.496225,0.8553989,0.041480247,0.35747096
+4-2078,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,1,0,0,42,0.07450364,0.8952522,0.86632967,0.021742051,0.07406243
+4-2107,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4444696,0.9011765,0.010222313,0.01682023,0.11762011
+4-2128,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.7793498,0.3388887,0.12545566,0.027085645,0.0023222223
+4-2143,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.46013248,0.86068785,0.008170399,0.027286898,0.14009142
+4-2143,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,1,42,0.5440826,0.73654914,0.014562413,0.01681342,0.42299166
+4-2149,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,1,0,42,0.83738667,0.43667623,0.063145615,0.9496933,0.0037113833
+4-2167,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.12175243,0.6544014,0.10415584,0.076147184,0.04169224
+4-2211,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6914758,0.913572,0.1275445,0.19017155,0.005239187
+4-2211,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,0,0,1,1,0,42,0.2789337,0.12969984,0.799078,0.039565682,0.025065517
+4-2250,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.7148151,0.8029,0.026990766,0.117586344,0.0064982944
+4-2250,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.7148151,0.8029,0.026990766,0.117586344,0.0064982944
+4-2250,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,1,0,0,0,42,0.7148151,0.8029,0.026990766,0.117586344,0.0064982944
+4-2251,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.81843454,0.8777972,0.11064817,0.20791383,0.011071957
+4-2251,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.81843454,0.8777972,0.11064817,0.20791383,0.011071957
+4-2251,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,0,0,0,0,0,42,0.81843454,0.8777972,0.11064817,0.20791383,0.011071957
+4-2350,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.3430857,0.6865797,0.3925964,0.087288216,0.00077603414
+4-2350,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,0,0,42,0.32257965,0.082960196,0.72501326,0.12501763,0.0050527654
+4-2508,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.7627786,0.62528235,0.09511347,0.07323721,0.0015338588
+4-2619,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.40090016,0.8189879,0.038909648,0.33606046,0.0052107666
+4-2619,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.40090016,0.8189879,0.038909648,0.33606046,0.0052107666
+4-2619,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.40090016,0.8189879,0.038909648,0.33606046,0.0052107666
+4-2656,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.73079604,0.30363292,0.05361187,0.103791796,0.0122138895
+4-2656,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.73079604,0.30363292,0.05361187,0.103791796,0.0122138895
+4-2724,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5786016,0.8878278,0.026922865,0.024055563,0.02158599
+4-2760,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.44726247,0.6527041,0.07418259,0.039419204,0.0016920173
+4-2760,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,1,0,42,0.44726247,0.6527041,0.07418259,0.039419204,0.0016920173
+4-2760,23,Ternate,Islam,no,no,M,35,Ternate,Sarjana (S1),Bekerja,1,Luar Jabodetabek,1,0,0,1,0,42,0.29164362,0.2470359,0.2039488,0.039968807,0.0026900393
+4-2760,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,1,0,42,0.44726247,0.6527041,0.07418259,0.039419204,0.0016920173
+4-2806,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5608365,0.83122724,0.023651315,0.07582071,0.004991637
+4-2815,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.3497892,0.92234015,0.25776765,0.032962274,0.0042808643
+4-282,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.79295033,0.80247664,0.20713942,0.053670663,0.06012435
+4-282,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,1,0,0,42,0.79295033,0.80247664,0.20713942,0.053670663,0.06012435
+4-282,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,1,0,0,42,0.79295033,0.80247664,0.20713942,0.053670663,0.06012435
+4-2824,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,0,0,0,0,42,0.3429263,0.32390007,0.13873598,0.116469905,0.0061430857
+4-2824,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.3429263,0.32390007,0.13873598,0.116469905,0.0061430857
+4-2845,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.37479848,0.8790769,0.18702544,0.051731154,0.001377151
+4-2852,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.43949226,0.34446797,0.0041033886,0.92102385,0.0407283
+4-2856,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5711437,0.8308788,0.0036976524,0.10460626,0.028528666
+4-2858,20,Sunda,Islam,no,no,M,43,Jakarta,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.45437562,0.6937852,0.021786312,0.035500217,0.0061512487
+4-3020,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.11164194,0.46979937,0.004005639,0.27151403,0.9296693
+4-3023,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.3949749,0.24046235,0.6337566,0.040307403,0.015866224
+4-3045,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.32754892,0.1952009,0.17791943,0.18445677,0.0027352986
+4-3063,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,1,0,0,0,42,0.6500752,0.086668685,0.021641396,0.01915543,0.2552863
+4-3126,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.72718024,0.3175899,0.11973877,0.16865925,0.0070756148
+4-3165,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.22147068,0.15532786,0.51430935,0.07711226,0.004334499
+4-3212,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.40801266,0.3796208,0.18026844,0.13231488,0.019486623
+4-3226,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.5754866,0.13225669,0.23375498,0.14202124,0.006233081
+4-3272,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.8103133,0.17576873,0.067581356,0.25197682,0.14912091
+4-3275,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.44941106,0.11658448,0.6430785,0.050951127,0.0011624697
+4-3337,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.60525876,0.4583451,0.25680932,0.080852196,0.009260595
+4-3384,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.74680394,0.4016702,0.26910833,0.1725519,0.002382465
+4-3409,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,0,1,0,42,0.29988536,0.07529911,0.63456655,0.1559764,0.033075772
+4-3509,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.53102875,0.56472105,0.2426483,0.060955543,0.004279484
+4-3513,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.261164,0.322713,0.43189383,0.03146237,0.025015993
+4-3561,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.61719155,0.18973516,0.31479508,0.08152461,0.039324284
+4-3568,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.8550799,0.10695275,0.13202819,0.06395887,0.0064675175
+4-3709,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.92923605,0.06719522,0.16771856,0.6261589,0.0053859707
+4-3716,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.25043234,0.08998081,0.80178374,0.08329398,0.0025431942
+4-3719,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.72516173,0.61671305,0.04740368,0.1906403,0.00701229
+4-3734,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.31223497,0.10128388,0.5721663,0.08457955,0.0047325743
+4-3750,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.21797068,0.48005903,0.7871349,0.03283163,0.051437866
+4-3751,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.3782642,0.17634669,0.361327,0.07457634,0.008163449
+4-3796,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.5294176,0.22723393,0.16639192,0.06807175,0.0035610641
+4-3823,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.23779595,0.06145873,0.728557,0.19909719,0.015827538
+4-3856,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,1,0,0,42,0.3353709,0.7183048,0.08083332,0.02043662,0.100844346
+4-3881,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,0,0,0,0,1,42,0.34651458,0.033656694,0.03644763,0.17767967,0.49662247
+4-3910,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.7402835,0.10465427,0.61483544,0.06969008,0.0027790135
+4-3921,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.46530414,0.26795396,0.09953721,0.42374182,0.0051758643
+4-3947,5,Jawa,Syiah,no,no,M,46,Bandung,Diploma,Bekerja,Golput,Luar Jabodetabek,1,0,0,0,0,42,0.795796,0.58180845,0.340412,0.06946531,0.002687781
+4-4018,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.6811384,0.4380907,0.0034090572,0.37390494,0.0071970993
+4-4070,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.4774744,0.80931276,0.039467983,0.033735856,0.003742609
+4-429,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.4285621,0.92288333,0.13760881,0.07112437,0.0032205672
+4-4298,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.2831689,0.91555333,0.089115225,0.031253062,0.01810901
+4-4338,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.39321586,0.9457506,0.022574238,0.1816346,0.006268628
+4-4414,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.858624,0.61477804,0.042431973,0.21699347,0.0027746758
+4-4479,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,0,0,1,0,42,0.5679301,0.8156197,0.041113716,0.058387224,0.008076007
+4-4634,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.8006959,0.64032495,0.007042103,0.10178064,0.010155815
+4-468,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.3341357,0.81360316,0.2532985,0.27364066,0.0021719527
+4-4764,1,Tionghoa,Kristen,no,no,F,50,Jakarta,Diploma,Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.5218961,0.50957614,0.0071893893,0.25444397,0.003505135
+4-622,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.23007813,0.9372633,0.052287262,0.021898864,0.01639315
+4-624,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.68956894,0.8662037,0.021115892,0.46198383,0.0065597887
+4-624,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.68956894,0.8662037,0.021115892,0.46198383,0.0065597887
+4-676,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.5429493,0.925505,0.19464527,0.10072338,0.005051529
+4-676,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.5429493,0.925505,0.19464527,0.10072338,0.005051529
+4-676,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.5429493,0.925505,0.19464527,0.10072338,0.005051529
+4-821,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.23274863,0.61619395,0.53528166,0.043752532,0.0020536243
+4-821,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.23274863,0.61619395,0.53528166,0.043752532,0.0020536243
+4-821,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,0,0,0,0,42,0.23274863,0.61619395,0.53528166,0.043752532,0.0020536243
+4-851,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.66749406,0.59595543,0.0058022514,0.3742091,0.03485393
+4-851,18,Bali,Hindu,yes,no,M,34,Jakarta,Magister (S2),Tidak Bekerja,2,Jabodetabek,1,1,0,0,0,42,0.66749406,0.59595543,0.0058022514,0.3742091,0.03485393
+4-851,34,Bali,Hindu,no,no,F,20,Jakarta,Sekolah Menengah Atas (SMA),Pelajar/Mahasiswa,-,Jabodetabek,1,1,0,0,0,42,0.66749406,0.59595543,0.0058022514,0.3742091,0.03485393
+4-919,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,0,1,0,0,0,42,0.5879556,0.87488955,0.0068222256,0.22265649,0.005119322
+4-975,19,Batak,Kristen,no,no,F,39,Depok,Magister (S2),Bekerja,2,Jabodetabek,1,0,0,0,0,42,0.7858571,0.84540707,0.0031976253,0.52527636,0.016177876
